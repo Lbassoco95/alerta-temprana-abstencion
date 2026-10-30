@@ -1,0 +1,8 @@
+carga_id,fuente,archivo,sha256,filas,eleccion_id,notas
+1,INE-DECEyEC CCPC,ccpc_2009_def24.csv,11d60a8bd80a732f9f8670ecf16b7044f06caff5aba6549f8c37f3c053d587de,12670,1,agregado a distrito 2023 (ver scripts/agrega_def24.py)
+2,INE-DECEyEC CCPC,ccpc_2012_def24.csv,0730339c9e34cbb596a9a3a0bf2b45a34894c4a150892202b2644b08db26c70f,12608,2,agregado a distrito 2023 (ver scripts/agrega_def24.py)
+3,INE-DECEyEC CCPC,ccpc_2015_def24.csv,b3ea67276a3c1efe2adc2f83b0a094cf6a086e90a7b6279df7c5978b3a2c42e3,12605,3,agregado a distrito 2023 (ver scripts/agrega_def24.py)
+4,INE-DECEyEC CCPC,ccpc_2018_def24.csv,05ea37cab0cf532359f1010c1cbb9e2480559c27090dd818d4b072ea01c16894,12591,4,agregado a distrito 2023 (ver scripts/agrega_def24.py)
+5,INE-DECEyEC CCPC,ccpc_2021_def24.csv,541f1d865b4c8352f989b2acd0b2da22b204b98ccba4671a85888e802e7d1e80,12592,5,agregado a distrito 2023 (ver scripts/agrega_def24.py)
+6,INE-DECEyEC CCPC,ccpc_2024_def24.csv,96c57bcd0e7c6b4ca884ef9c5ad3c499376413522d5d369c7414dd261b746385,12684,6,agregado a distrito 2023 (ver scripts/agrega_def24.py)
+7,INE-DECEyEC CCPC,ccpc_2025_def24.csv,90e287d40ab341dfa5d65d8418aeb29d8464762237f7c13d299730eb2f719fb1,12690,7,agregado a distrito 2023 (ver scripts/agrega_def24.py)

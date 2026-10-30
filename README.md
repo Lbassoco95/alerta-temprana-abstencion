@@ -70,8 +70,13 @@ alerta-temprana-abstencion/
 │
 ├── outputs/                  ← resultados intermedios (índice completo, series, backtest, sensibilidad, escenarios)
 ├── entregables/              ← lo que se envía al INE (sección 2)
+├── db/
+│   ├── migrations/0001_esquema_base.sql ← esquema de la plataforma (7 esquemas, probado)
+│   ├── seed/                 ← CSV para poblar la base con los resultados de la fase 0
+│   └── README.md
 ├── docs/
 │   ├── index.html            ← tablero (GitHub Pages)
+│   ├── ARQUITECTURA-PLATAFORMA.md ← fase 2: base de datos, API, web guiada, señales, analítica, tiempo real
 │   ├── METODOLOGIA.md        ← fundamentos matemáticos, validación y sensibilidad, fórmula por fórmula
 │   ├── DICCIONARIO-DE-DATOS.md
 │   └── fig/                  ← figuras del reporte
@@ -123,13 +128,17 @@ Cada fórmula, la construcción de la validación fuera de muestra y el procedim
 
 ---
 
-## 7. Privacidad y uso responsable
+## 7. De pipeline a plataforma
+
+La fase 0 es un pipeline reproducible y un tablero estático. `docs/ARQUITECTURA-PLATAFORMA.md` describe cómo convertirlo en un sistema que el INE pueda seguir alimentando: base de datos como fuente de verdad (`db/migrations/0001_esquema_base.sql`, con catálogos y cartografía versionada, hechos del CCPC, corridas del índice, decisiones e intervenciones, señales continuas, panel analítico abierto a nuevas variables y registro de modelos), API de sólo lectura para el público, una web guiada y, hacia 2027, lectura de agregados por sección durante la jornada electoral. Siempre sobre agregados territoriales, nunca sobre personas.
+
+## 8. Privacidad y uso responsable
 
 No se utiliza, requiere ni produce ningún dato personal. La unidad mínima de la fuente es el agregado sección × sexo × edad y los resultados se expresan a nivel distrito. El instrumento orienta la promoción del voto y la educación cívica; no infiere preferencias, no decide ubicación de casillas y no califica poblaciones. La etiqueta «rojo» describe una trayectoria, no a las personas de un territorio.
 
 ---
 
-## 8. Cómo citar
+## 9. Cómo citar
 
 Bassoco Nova, L., y Anastasio, A. (2026). *Alerta temprana de abstención: índice territorial de riesgo de caída de la participación para los 300 distritos electorales federales* [Código y datos]. Hackathon 2026 «Hackea la participación», INE. Ver `CITATION.cff`.
 

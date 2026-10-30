@@ -1,0 +1,10 @@
+indicador_id,componente,nombre,formula,orientacion,fundamento
+A1,A,Desgaste juvenil,−pendiente de p_J en p_J = a + β·t + γ·P,mas_es_mas_riesgo,Plutzer 2002; Franklin 2004
+A2,A,Brecha generacional,(p_A − p_J)_T − (p_A − p_J)_{T−12},mas_es_mas_riesgo,Cohorte vs adultos
+A3,A,Retención de cohorte,"mediana(r) − r; r = p_{30–39,T} − p_{J,T−12}",mas_es_mas_riesgo,Ryder 1965
+B1,B,Rebote perdido,(p_{T−12} − p_{T−15}) − (p_T − p_{T−3}),mas_es_mas_riesgo,Reif y Schmitt 1980
+B2,B,Caída adulta,"p_{A,T−6} − p_{A,T}",mas_es_mas_riesgo,Easton 1975; Norris 1999
+B3,B,Volatilidad,sd(residuos) de p = a + b·t + c·P,mas_es_mas_riesgo,Rosenstone y Hansen 1993
+C1,C,Peso rural y mixto,LN rural+mixto / LN,mas_es_mas_riesgo,"Verba, Schlozman y Brady 1995"
+C2,C,Brecha de género,|p_M − p_H|,mas_es_mas_riesgo,Desigualdad de participación
+C3,C,Peso juvenil,LN 18–29 / LN,mas_es_mas_riesgo,Exposición

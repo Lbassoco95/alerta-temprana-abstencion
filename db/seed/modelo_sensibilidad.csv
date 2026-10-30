@@ -1,0 +1,11 @@
+corrida_id,variante,pct_cambia_banda,pct_rojos_se_mantienen,spearman_con_base
+1,peso_A+0.1,9.3,95.6,0.992
+1,peso_A-0.1,12.7,93.3,0.988
+1,peso_B+0.1,9.3,95.6,0.993
+1,peso_B-0.1,12.7,95.6,0.989
+1,peso_C+0.1,13.3,93.3,0.99
+1,peso_C-0.1,10.7,93.3,0.988
+1,pesos_iguales,24.7,84.4,0.958
+1,minmax,14.0,86.7,0.982
+1,zscore,10.7,91.1,0.993
+1,geometrica,24.7,86.7,0.914

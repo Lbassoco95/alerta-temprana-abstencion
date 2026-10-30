@@ -1,0 +1,3 @@
+cartografia_id,clave,descripcion,fecha_corte,acuerdo,vigente_desde,vigente_hasta
+1,DERFE-2021,Marco geográfico 2021 (distritación 2017); campo DEF de los CCPC 2009–2021,2021-01-01,INE/CG59/2017,2017-03-15,2023-01-31
+2,DERFE-2023,Marco geográfico 2023 (distritación 2023); campo DEF de los CCPC 2024 y PJ 2025,2023-05-31,INE/CG875/2022,2023-02-01,
