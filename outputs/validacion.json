@@ -1,0 +1,40 @@
+{
+  "holdout_2025": {
+    "objetivo": 2025,
+    "spearman_R_sorpresa": 0.044,
+    "sorpresa_media_por_banda": {
+      "rojo": 0.86,
+      "naranja": 0.94,
+      "amarillo": 0.12,
+      "verde": -0.04
+    },
+    "monotonia_por_banda": false,
+    "pct_rojos_con_sorpresa_sobre_mediana": 62.2,
+    "pct_verdes_con_sorpresa_sobre_mediana": 44.3,
+    "spearman_por_componente": {
+      "A_habito": -0.184,
+      "B_desafeccion": 0.096,
+      "C_vulnerabilidad": 0.284
+    },
+    "n_distritos": 298
+  },
+  "backtest_2018_a_2021": {
+    "objetivo": 2021,
+    "spearman_R_sorpresa": 0.367,
+    "sorpresa_media_por_banda": {
+      "rojo": 3.88,
+      "naranja": 2.67,
+      "amarillo": 1.64,
+      "verde": -3.15
+    },
+    "monotonia_por_banda": true,
+    "pct_rojos_con_sorpresa_sobre_mediana": 75.6,
+    "pct_verdes_con_sorpresa_sobre_mediana": 28.3,
+    "spearman_por_componente": {
+      "A_habito": 0.012,
+      "B_desafeccion": 0.504,
+      "C_vulnerabilidad": 0.138
+    },
+    "n_distritos": 300
+  }
+}

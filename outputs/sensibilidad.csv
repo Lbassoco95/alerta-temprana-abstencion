@@ -1,0 +1,11 @@
+variante,pct_cambia_banda,pct_rojos_se_mantienen,spearman_con_base
+peso_A+0.1,9.3,95.6,0.992
+peso_A-0.1,12.7,93.3,0.988
+peso_B+0.1,9.3,95.6,0.993
+peso_B-0.1,12.7,95.6,0.989
+peso_C+0.1,13.3,93.3,0.99
+peso_C-0.1,10.7,93.3,0.988
+pesos_iguales,24.7,84.4,0.958
+minmax,14.0,86.7,0.982
+zscore,10.7,91.1,0.993
+geometrica,24.7,86.7,0.914

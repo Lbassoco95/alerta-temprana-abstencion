@@ -1,0 +1,17 @@
+{
+  "unidad": "distrito_electoral_federal_2023",
+  "elecciones": [2009, 2012, 2015, 2018, 2021, 2024],
+  "presidenciales": [2012, 2018, 2024],
+  "holdout": [2025],
+  "normalizacion": "percentil",
+  "agregacion": "lineal",
+  "pesos_indicadores": {"A1": 0.30, "A2": 0.30, "A3": 0.40,
+                        "B1": 0.45, "B2": 0.35, "B3": 0.20,
+                        "C1": 0.40, "C2": 0.35, "C3": 0.25},
+  "pesos_componentes": {"A": 0.40, "B": 0.40, "C": 0.20},
+  "bandas_cuantiles": {"rojo": 0.15, "naranja": 0.20, "amarillo": 0.30, "verde": 0.35},
+  "umbral_mecanismo": 0.40,
+  "sensibilidad": {"delta_pesos": 0.10, "variantes": ["pesos_iguales", "minmax", "zscore", "geometrica"]},
+  "escenarios": {"elasticidad_puntos": {"rojo": 3.0, "naranja": 2.0, "amarillo": 1.0, "verde": 0.0},
+                 "nota": "Supuesto explícito: efecto de promoción focalizada en puntos porcentuales de participación, en el rango bajo de la literatura experimental de movilización (Gerber y Green)."}
+}

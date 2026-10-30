@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.DS_Store
+data/raw/*.zip
+data/raw/DatosAbiertos_*/
+reporte/ref*.docx
+reporte/*.png
+reporte/contact.png
+outputs/tablero_data.json
