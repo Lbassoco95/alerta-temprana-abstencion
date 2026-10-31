@@ -77,6 +77,7 @@ alerta-temprana-abstencion/
 ├── docs/
 │   ├── index.html            ← tablero (GitHub Pages)
 │   ├── ARQUITECTURA-PLATAFORMA.md ← fase 2: base de datos, API, web guiada, señales, analítica, tiempo real
+│   ├── GUIA-DE-REVISION.md   ← para quien llega por primera vez: base teórica, decisiones de diseño, qué revisar
 │   ├── METODOLOGIA.md        ← fundamentos matemáticos, validación y sensibilidad, fórmula por fórmula
 │   ├── DICCIONARIO-DE-DATOS.md
 │   └── fig/                  ← figuras del reporte
