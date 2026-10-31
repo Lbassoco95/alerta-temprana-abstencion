@@ -149,7 +149,7 @@ details{{margin-top:10px}}summary{{cursor:pointer;font-weight:600}}.gl{{display:
  <details><summary>Abrir la explicación completa (12 apartados)</summary><div class="met">{met_html}</div></details>
 </div>
 
-<p class="foot">Equipo: Leopoldo Bassoco Nova · Alan Anastasio (participación a título personal) · Hackathon INE 2026 «Hackea la participación», Eje 2. Datos: INE-DECEyEC, Conteos Censales de Participación Ciudadana 2009–2024 y PEEFPJ 2024–2025. Cartografía: shapefiles del INE sistematizados en el repositorio <i>Recent Mexican electoral geography</i> (E. Magar, ITAM). Mapa base: © OpenStreetMap, © CARTO (sólo con conexión). Sin datos personales.</p>
+<p class="foot">Equipo: Leopoldo Bassoco Nova · Alan Anastasio (participación a título personal) · Hackathon INE 2026 «Hackea la participación», Eje 2. Datos: INE-DECEyEC, Conteos Censales de Participación Ciudadana 2009–2024 y PEEFPJ 2024–2025. Cartografía: shapefiles del INE sistematizados en el repositorio <i>Recent Mexican electoral geography</i> (E. Magar, ITAM). Mapa base: © OpenStreetMap (sólo con conexión). Sin datos personales.</p>
 </div>
 
 <script>{leaf_js}</script>
@@ -166,11 +166,10 @@ const st={{edo:'',mec:'',bands:new Set(['rojo','naranja','amarillo','verde']),se
 const fmt=(x,d=1)=>x==null?'–':Number(x).toFixed(d); const fmtN=x=>Number(x).toLocaleString('es-MX'); const dn=r=>`${{r.entidad}} · distrito ${{+r.id_def.slice(3)}}`;
 const fE=document.getElementById('fEdo'); [...new Set(DATA.map(r=>r.entidad))].sort().forEach(e=>{{const o=document.createElement('option');o.value=o.textContent=e;fE.appendChild(o)}});
 // ---- mapa ----
-const map=L.map('map',{{zoomSnap:.5,attributionControl:true}}).setView([23.8,-102.3],5);
+const map=L.map('map',{{zoomSnap:.25,attributionControl:true}}).fitBounds([[14.4,-118.6],[32.9,-86.5]],{{padding:[6,6]}});
 map.attributionControl.setPrefix('');
-const tiles=L.tileLayer('https://{{s}}.basemaps.cartocdn.com/light_nolabels/{{z}}/{{x}}/{{y}}{{r}}.png',{{maxZoom:12,attribution:'© OpenStreetMap, © CARTO'}});
-const labels=L.tileLayer('https://{{s}}.basemaps.cartocdn.com/light_only_labels/{{z}}/{{x}}/{{y}}{{r}}.png',{{maxZoom:12,pane:'shadowPane'}});
-let online=false; tiles.on('tileload',()=>{{if(!online){{online=true;labels.addTo(map);document.getElementById('mapnote').textContent='Los límites gruesos son estados; los delgados, distritos. Acerca el mapa para ver ciudades y carreteras.'}}}}); tiles.addTo(map);
+const tiles=L.tileLayer('https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png',{{maxZoom:12,opacity:.55,attribution:'© OpenStreetMap'}});
+let online=false; tiles.on('tileload',()=>{{if(!online){{online=true;document.getElementById('mapnote').textContent='Los límites gruesos son estados; los delgados, distritos. Acerca el mapa para ver ciudades y carreteras.'}}}}); tiles.addTo(map);
 function seqColor(v,min,max){{const t=Math.max(0,Math.min(1,(v-min)/(max-min)));const ramp=['#cde2fb','#9ec5f4','#6da7ec','#3987e5','#256abf','#184f95','#0d366b'];return ramp[Math.round(t*(ramp.length-1))]}}
 function fill(r){{if(st.var==='banda')return COL[r.banda];if(st.var==='mecanismo')return MEC[r.mecanismo];if(st.var==='dif'){{const g=r.p_2027_con_intervencion-r.p_2027_sin_intervencion;return g>=3?'#1c5cab':g>=2?'#3987e5':g>=1?'#86b6ef':'#dfe8f5'}};return seqColor(r[st.var],st.var==='p_J_2024'?25:40,st.var==='p_J_2024'?70:80)}}
 function visible(r){{const q=st.q.trim().toLowerCase();const okq=!q||r.entidad.toLowerCase().includes(q)||dn(r).toLowerCase().includes(q)||String(+r.id_def.slice(3))===q;return (!st.edo||r.entidad===st.edo)&&(!st.mec||r.mecanismo===st.mec)&&st.bands.has(r.banda)&&okq}}
@@ -227,7 +226,7 @@ function select(r,zoom){{st.sel=r;gj.setStyle(style);if(zoom&&layers[r.id_def])m
 document.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>{{const b=c.dataset.b;st.bands.has(b)?st.bands.delete(b):st.bands.add(b);c.classList.toggle('off',!st.bands.has(b));paint()}}));
 fE.addEventListener('change',e=>{{st.edo=e.target.value;paint()}});document.getElementById('fMec').addEventListener('change',e=>{{st.mec=e.target.value;paint()}});document.getElementById('fVar').addEventListener('change',e=>{{st.var=e.target.value;paint()}});
 document.getElementById('buscar').addEventListener('input',e=>{{st.q=e.target.value;gj.setStyle(style);tabla()}});
-document.getElementById('reset').addEventListener('click',()=>{{st.edo='';st.mec='';st.var='banda';st.q='';st.bands=new Set(['rojo','naranja','amarillo','verde']);fE.value='';document.getElementById('fMec').value='';document.getElementById('fVar').value='banda';document.getElementById('buscar').value='';document.querySelectorAll('.chip').forEach(c=>c.classList.remove('off'));st.sel=null;gj.setStyle(style);legend();tabla();map.setView([23.8,-102.3],5)}});
+document.getElementById('reset').addEventListener('click',()=>{{st.edo='';st.mec='';st.var='banda';st.q='';st.bands=new Set(['rojo','naranja','amarillo','verde']);fE.value='';document.getElementById('fMec').value='';document.getElementById('fVar').value='banda';document.getElementById('buscar').value='';document.querySelectorAll('.chip').forEach(c=>c.classList.remove('off'));st.sel=null;gj.setStyle(style);legend();tabla();map.fitBounds([[14.4,-118.6],[32.9,-86.5]],{{padding:[6,6]}})}});
 document.getElementById('ej').addEventListener('click',e=>{{e.preventDefault();select(byId['30-18'],true)}});
 legend();tabla();
 </script></body></html>"""

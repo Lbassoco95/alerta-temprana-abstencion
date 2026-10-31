@@ -1,5 +1,8 @@
 # Bitácora de versiones
 
+## 0.3.2 — 2026-10-31
+Mapa base: CARTO pasó a exigir llave de API (mosaicos con marca «API KEY REQUIRED»); se sustituye por OpenStreetMap estándar con opacidad reducida. Vista inicial ajustada a los límites de México. Despliegue en Vercel (https://alerta-temprana-abstencion.vercel.app) además de GitHub Pages.
+
 ## 0.3.1 — 2026-10-31
 Ajuste de redacción del escenario 2027 con intervención (determinación de cumplimiento del 30-oct): la banda sólo decide dónde se concentra la campaña; los puntos +3/+2/+1 se presentan como supuesto declarado, no medido ni documentado por la literatura; la prioridad por riesgo se apoya en el índice y su backtest, no en el escenario. Parámetro `elasticidad_puntos` renombrado a `puntos_campana_por_banda`. Ninguna cifra cambia (49.19 / 50.31; por banda idénticas).
 

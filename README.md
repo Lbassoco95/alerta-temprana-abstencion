@@ -5,7 +5,7 @@
 Hackathon 2026 «Hackea la participación: datos que construyen democracia» · Instituto Nacional Electoral · **Eje 2: Predicción y escenarios de riesgo de abstención**
 Equipo: Leopoldo Bassoco Nova · Alan Anastasio (participación a título personal) · Octubre de 2026
 
-> **Tablero interactivo:** https://lbassoco95.github.io/alerta-temprana-abstencion/ (GitHub Pages; fuente `docs/index.html`). También se puede abrir el archivo directamente en cualquier navegador: no requiere servidor ni conexión.
+> **Tablero interactivo:** https://alerta-temprana-abstencion.vercel.app (Vercel) · https://lbassoco95.github.io/alerta-temprana-abstencion/ (GitHub Pages). Fuente: `docs/index.html`. También se puede abrir el archivo directamente en cualquier navegador: no requiere servidor ni conexión.
 
 ---
 
