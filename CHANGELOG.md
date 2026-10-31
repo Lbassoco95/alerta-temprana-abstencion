@@ -1,5 +1,8 @@
 # Bitácora de versiones
 
+## 0.3.3 — 2026-10-31
+Nombre de municipios en el tablero: cada distrito muestra su municipio con mayor lista nominal en el título, la composición municipal (porcentaje de LN, derivada del CCPC 2024 a nivel sección) en tooltip y ficha, columna «Municipio principal» en la tabla y búsqueda por municipio. CSV y GeoJSON incorporan `municipio_principal`, `n_municipios` y `municipios`. Mapa recentrado tras la carga.
+
 ## 0.3.2 — 2026-10-31
 Mapa base: CARTO pasó a exigir llave de API (mosaicos con marca «API KEY REQUIRED»); se sustituye por OpenStreetMap estándar con opacidad reducida. Vista inicial ajustada a los límites de México. Despliegue en Vercel (https://alerta-temprana-abstencion.vercel.app) además de GitHub Pages.
 

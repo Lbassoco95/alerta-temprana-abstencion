@@ -13,10 +13,14 @@ EST = {1:"Aguascalientes",2:"Baja California",3:"Baja California Sur",4:"Campech
 r = pd.read_csv(os.path.join(OUT, "indice_distrital.csv"), index_col=0)
 esc = pd.read_csv(os.path.join(OUT, "escenarios.csv"), index_col=0)
 r["entidad"] = r.EDOCVE.map(EST)
+MUN = json.load(open(os.path.join(ROOT, "data/geo/municipios_por_distrito.json")))
+r["municipio_principal"] = r.index.map(lambda k: MUN.get(k, {}).get("mun_principal", ""))
+r["n_municipios"] = r.index.map(lambda k: MUN.get(k, {}).get("n_municipios", 0))
+r["municipios"] = r.index.map(lambda k: MUN.get(k, {}).get("municipios", ""))
 r["p_2027_sin_intervencion"] = esc.p_2027_sin_intervencion; r["p_2027_con_intervencion"] = esc.p_2027_con_intervencion
 
 # ---- CSV agregado (entregable) ----
-cols = ["entidad", "EDOCVE", "DEF", "LN_2024", "banda", "R", "A_habito", "B_desafeccion", "C_vulnerabilidad", "mecanismo",
+cols = ["entidad", "EDOCVE", "DEF", "municipio_principal", "n_municipios", "municipios", "LN_2024", "banda", "R", "A_habito", "B_desafeccion", "C_vulnerabilidad", "mecanismo",
         "prioridad", "rango_prioridad",
         "A1_desgaste_juvenil", "A2_brecha_generacional", "A3_retencion_cohorte", "B1_rebote_perdido", "B2_caida_adulta",
         "B3_volatilidad", "C1_rural_mixto", "C2_brecha_genero", "C3_peso_juvenil",
@@ -28,7 +32,7 @@ csv.round(2).to_csv(os.path.join(ENT, "indice_riesgo_abstencion_distrital.csv"),
 
 # ---- GeoJSON ----
 g = gpd.read_file(os.path.join(ROOT, "data/geo/distritos_federales_2024.geojson"))
-keep = ["entidad", "LN_2024", "banda", "R", "A_habito", "B_desafeccion", "C_vulnerabilidad", "mecanismo", "prioridad",
+keep = ["entidad", "municipio_principal", "n_municipios", "LN_2024", "banda", "R", "A_habito", "B_desafeccion", "C_vulnerabilidad", "mecanismo", "prioridad",
         "rango_prioridad", "p_total_2021", "p_total_2024", "p_J_2024", "p_A_2024", "p_M_2024", "p_H_2024",
         "p_2027_sin_intervencion", "p_2027_con_intervencion"]
 gj = g.merge(r[keep].round(2), left_on="id_def", right_index=True, how="left")

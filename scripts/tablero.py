@@ -16,7 +16,8 @@ met_html = re.sub(r"<h1([^>]*)>", r"<h2\1>", met_html).replace("</h1>", "</h2>")
 KEEP = ["id_def", "entidad", "LN_2024", "banda", "R", "A_habito", "B_desafeccion", "C_vulnerabilidad", "mecanismo", "prioridad",
         "rango_prioridad", "p_total_2021", "p_total_2024", "p_J_2024", "p_A_2024", "p_M_2024", "p_H_2024",
         "p_2027_sin_intervencion", "p_2027_con_intervencion"]
-feats = [{"type": "Feature", "geometry": f["geometry"], "properties": {k: f["properties"].get(k) for k in KEEP}} for f in D["features"]]
+MUN = json.load(open(os.path.join(ROOT, "data/geo/municipios_por_distrito.json")))
+feats = [{"type": "Feature", "geometry": f["geometry"], "properties": {**{k: f["properties"].get(k) for k in KEEP}, **MUN.get(f["properties"]["id_def"], {"mun_principal": "", "n_municipios": 0, "municipios": "", "busqueda": ""})}} for f in D["features"]]
 # series extra por distrito para el explicador de escenarios
 import pandas as pd
 idx = pd.read_csv(os.path.join(ROOT, "outputs/indice_distrital.csv"), index_col=0)
@@ -87,7 +88,7 @@ details{{margin-top:10px}}summary{{cursor:pointer;font-weight:600}}.gl{{display:
  <select id="fEdo"><option value="">Todas las entidades</option></select>
  <select id="fMec"><option value="">Todas las causas</option><option value="habito">Hábito (jóvenes)</option><option value="desafeccion">Desafección (adultos que dejaron de votar)</option><option value="vulnerabilidad">Vulnerabilidad del territorio</option><option value="mixto">Mixto</option></select>
  <select id="fVar"><option value="banda">Pintar por: color de riesgo</option><option value="mecanismo">Pintar por: causa principal</option><option value="p_total_2024">Pintar por: % que votó en 2024</option><option value="p_J_2024">Pintar por: % de jóvenes que votó en 2024</option><option value="dif">Pintar por: puntos supuestos de campaña en 2027</option></select>
- <input id="buscar" placeholder="Buscar: entidad o número de distrito" style="min-width:230px">
+ <input id="buscar" placeholder="Buscar: entidad, municipio o número de distrito" style="min-width:230px">
  <span class="chip" data-b="rojo"><i class="sw" style="background:var(--rojo)"></i>Rojo {cnt['rojo']}</span><span class="chip" data-b="naranja"><i class="sw" style="background:var(--naranja)"></i>Naranja {cnt['naranja']}</span><span class="chip" data-b="amarillo"><i class="sw" style="background:var(--amarillo)"></i>Amarillo {cnt['amarillo']}</span><span class="chip" data-b="verde"><i class="sw" style="background:var(--verde)"></i>Verde {cnt['verde']}</span>
  <button id="reset">Limpiar</button>
 </div>
@@ -132,7 +133,7 @@ details{{margin-top:10px}}summary{{cursor:pointer;font-weight:600}}.gl{{display:
 
 <div class="card section"><h2>Lista de prioridad: a quién atender primero</h2>
  <p class="note">Orden por <b>riesgo × tamaño</b> (R multiplicado por la lista nominal del distrito): entre dos distritos igual de rojos, primero el que tiene más personas. Haz clic en una fila para abrir la ficha. La tabla responde a los filtros de arriba.</p>
- <div style="max-height:440px;overflow:auto"><table id="tabla"><thead><tr><th>#</th><th>Distrito</th><th>Entidad</th><th>Color</th><th>R</th><th>Hábito</th><th>Desafección</th><th>Vulnerab.</th><th>Causa</th><th>Votó 2024</th><th>Jóvenes 2024</th><th>Lista nominal</th></tr></thead><tbody></tbody></table></div></div>
+ <div style="max-height:440px;overflow:auto"><table id="tabla"><thead><tr><th>#</th><th>Distrito</th><th>Entidad</th><th>Municipio principal</th><th>Color</th><th>R</th><th>Hábito</th><th>Desafección</th><th>Vulnerab.</th><th>Causa</th><th>Votó 2024</th><th>Jóvenes 2024</th><th>Lista nominal</th></tr></thead><tbody></tbody></table></div></div>
 
 <div class="grid section">
  <div class="card"><h2>¿Y esto funciona? La prueba</h2>
@@ -163,7 +164,7 @@ const MECN={{habito:'Hábito (jóvenes)',desafeccion:'Desafección (adultos que 
 const BN={{rojo:'Rojo',naranja:'Naranja',amarillo:'Amarillo',verde:'Verde'}};
 const DATA=FEATS.map(f=>f.properties); const byId=Object.fromEntries(DATA.map(r=>[r.id_def,r]));
 const st={{edo:'',mec:'',bands:new Set(['rojo','naranja','amarillo','verde']),sel:null,var:'banda',q:''}};
-const fmt=(x,d=1)=>x==null?'–':Number(x).toFixed(d); const fmtN=x=>Number(x).toLocaleString('es-MX'); const dn=r=>`${{r.entidad}} · distrito ${{+r.id_def.slice(3)}}`;
+const fmt=(x,d=1)=>x==null?'–':Number(x).toFixed(d); const fmtN=x=>Number(x).toLocaleString('es-MX'); const dn=r=>`${{r.entidad}} · distrito ${{+r.id_def.slice(3)}}${{r.mun_principal?' · '+r.mun_principal:''}}`;
 const fE=document.getElementById('fEdo'); [...new Set(DATA.map(r=>r.entidad))].sort().forEach(e=>{{const o=document.createElement('option');o.value=o.textContent=e;fE.appendChild(o)}});
 // ---- mapa ----
 const MXB=[[14.4,-118.6],[32.9,-86.5]];const map=L.map('map',{{zoomSnap:.25,attributionControl:true}}).fitBounds(MXB,{{padding:[6,6]}});
@@ -173,10 +174,10 @@ const tiles=L.tileLayer('https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png',{
 let online=false; tiles.on('tileload',()=>{{if(!online){{online=true;document.getElementById('mapnote').textContent='Los límites gruesos son estados; los delgados, distritos. Acerca el mapa para ver ciudades y carreteras.'}}}}); tiles.addTo(map);
 function seqColor(v,min,max){{const t=Math.max(0,Math.min(1,(v-min)/(max-min)));const ramp=['#cde2fb','#9ec5f4','#6da7ec','#3987e5','#256abf','#184f95','#0d366b'];return ramp[Math.round(t*(ramp.length-1))]}}
 function fill(r){{if(st.var==='banda')return COL[r.banda];if(st.var==='mecanismo')return MEC[r.mecanismo];if(st.var==='dif'){{const g=r.p_2027_con_intervencion-r.p_2027_sin_intervencion;return g>=3?'#1c5cab':g>=2?'#3987e5':g>=1?'#86b6ef':'#dfe8f5'}};return seqColor(r[st.var],st.var==='p_J_2024'?25:40,st.var==='p_J_2024'?70:80)}}
-function visible(r){{const q=st.q.trim().toLowerCase();const okq=!q||r.entidad.toLowerCase().includes(q)||dn(r).toLowerCase().includes(q)||String(+r.id_def.slice(3))===q;return (!st.edo||r.entidad===st.edo)&&(!st.mec||r.mecanismo===st.mec)&&st.bands.has(r.banda)&&okq}}
+function visible(r){{const q=st.q.trim().toLowerCase();const okq=!q||r.entidad.toLowerCase().includes(q)||dn(r).toLowerCase().includes(q)||String(+r.id_def.slice(3))===q||(r.busqueda||'').toLowerCase().includes(q);return (!st.edo||r.entidad===st.edo)&&(!st.mec||r.mecanismo===st.mec)&&st.bands.has(r.banda)&&okq}}
 function style(f){{const r=f.properties;const v=visible(r);return {{fillColor:fill(r),fillOpacity:v?0.82:0.12,color:st.sel&&st.sel.id_def===r.id_def?'#0b0b0b':'#ffffff',weight:st.sel&&st.sel.id_def===r.id_def?2.5:0.7,opacity:v?1:0.4}}}}
 const gj=L.geoJSON(FEATS,{{style,onEachFeature:(f,l)=>{{const r=f.properties;
- l.bindTooltip(()=>`<b>${{dn(r)}}</b><br><span class="b" style="--c:${{COL[r.banda]}}">${{BN[r.banda]}}</span> · R = ${{fmt(r.R)}}<br>Causa: ${{MECN[r.mecanismo]}}<br>Votó en 2024: ${{fmt(r.p_total_2024)}} % · jóvenes ${{fmt(r.p_J_2024)}} %<br><i>Clic para ver la ficha</i>`,{{sticky:true,className:'tt'}});
+ l.bindTooltip(()=>`<b>${{dn(r)}}</b><br><span style="color:#555">${{r.n_municipios>1?r.n_municipios+' municipios: ':''}}${{(r.municipios||'').split('; ').slice(0,3).map(x=>x.replace(/ [(].*[)]/,'')).join(', ')}}${{r.n_municipios>3?'…':''}}</span><br><span class="b" style="--c:${{COL[r.banda]}}">${{BN[r.banda]}}</span> · R = ${{fmt(r.R)}}<br>Causa: ${{MECN[r.mecanismo]}}<br>Votó en 2024: ${{fmt(r.p_total_2024)}} % · jóvenes ${{fmt(r.p_J_2024)}} %<br><i>Clic para ver la ficha</i>`,{{sticky:true,className:'tt'}});
  l.on('mouseover',()=>{{if(!(st.sel&&st.sel.id_def===r.id_def))l.setStyle({{weight:2,color:'#0b0b0b'}});l.bringToFront()}});l.on('mouseout',()=>gj.resetStyle(l));l.on('click',()=>select(r,false))}}}}).addTo(map);
 L.geoJSON(ENT,{{style:{{fill:false,color:'#52514e',weight:1.6,opacity:.9}},interactive:false}}).addTo(map);
 const layers={{}}; gj.eachLayer(l=>layers[l.feature.properties.id_def]=l);
@@ -189,7 +190,7 @@ function legend(){{const L_=document.getElementById('legend');if(st.var==='banda
  const ml=document.getElementById('maplegend');if(ml)ml.innerHTML=`<div class="mlt">${{document.getElementById('fVar').selectedOptions[0].textContent.replace('Pintar por: ','').replace(/^./,c=>c.toUpperCase())}}</div><div class="mle">${{EXPL[st.var]}}</div><div class="mll">${{L_.innerHTML}}</div>`}}
 function paint(){{gj.setStyle(style);legend();tabla();if(st.edo){{const b=L.featureGroup(DATA.filter(r=>r.entidad===st.edo).map(r=>layers[r.id_def])).getBounds();map.fitBounds(b,{{padding:[20,20]}})}}}}
 const tb=document.querySelector('#tabla tbody');
-function tabla(){{const rows=DATA.filter(visible).sort((a,b)=>a.rango_prioridad-b.rango_prioridad).slice(0,80);tb.innerHTML=rows.map(r=>`<tr data-id="${{r.id_def}}" style="cursor:pointer"><td>${{r.rango_prioridad}}</td><td>${{+r.id_def.slice(3)}}</td><td>${{r.entidad}}</td><td><span class="b" style="--c:${{COL[r.banda]}}">${{BN[r.banda]}}</span></td><td>${{fmt(r.R)}}</td><td>${{fmt(r.A_habito,0)}}</td><td>${{fmt(r.B_desafeccion,0)}}</td><td>${{fmt(r.C_vulnerabilidad,0)}}</td><td>${{MECN[r.mecanismo].split(' (')[0]}}</td><td>${{fmt(r.p_total_2024)}} %</td><td>${{fmt(r.p_J_2024)}} %</td><td>${{fmtN(r.LN_2024)}}</td></tr>`).join('')||'<tr><td colspan="12" class="muted">Ningún distrito cumple los filtros.</td></tr>';
+function tabla(){{const rows=DATA.filter(visible).sort((a,b)=>a.rango_prioridad-b.rango_prioridad).slice(0,80);tb.innerHTML=rows.map(r=>`<tr data-id="${{r.id_def}}" style="cursor:pointer"><td>${{r.rango_prioridad}}</td><td>${{+r.id_def.slice(3)}}</td><td>${{r.entidad}}</td><td>${{r.mun_principal}}${{r.n_municipios>1?' <span class="muted">+'+(r.n_municipios-1)+'</span>':''}}</td><td><span class="b" style="--c:${{COL[r.banda]}}">${{BN[r.banda]}}</span></td><td>${{fmt(r.R)}}</td><td>${{fmt(r.A_habito,0)}}</td><td>${{fmt(r.B_desafeccion,0)}}</td><td>${{fmt(r.C_vulnerabilidad,0)}}</td><td>${{MECN[r.mecanismo].split(' (')[0]}}</td><td>${{fmt(r.p_total_2024)}} %</td><td>${{fmt(r.p_J_2024)}} %</td><td>${{fmtN(r.LN_2024)}}</td></tr>`).join('')||'<tr><td colspan="13" class="muted">Ningún distrito cumple los filtros.</td></tr>';
  tb.querySelectorAll('tr[data-id]').forEach(tr=>tr.addEventListener('click',()=>select(byId[tr.dataset.id],true)))}}
 function scaleHTML(r){{const segs=[['verde',0,CUT.amarillo],['amarillo',CUT.amarillo,CUT.naranja],['naranja',CUT.naranja,CUT.rojo],['rojo',CUT.rojo,100]];
  let h=segs.map(([b,a,z])=>`<div class="seg" style="left:${{a}}%;width:${{z-a}}%;background:${{COL[b]}}"></div>`).join('');
@@ -210,6 +211,7 @@ function select(r,zoom){{st.sel=r;gj.setStyle(style);if(zoom&&layers[r.id_def])m
  const bar=(v,c)=>`<div class="bar"><i style="width:${{v}}%;background:${{c}}"></i></div>`;const top=mayor(r);const sin=r.p_2027_sin_intervencion,con=r.p_2027_con_intervencion;
  document.getElementById('detail').innerHTML=`<h2>${{dn(r)}}</h2>
  <p><span class="tag" style="background:${{COL[r.banda]}};font-size:14px">${{BN[r.banda].toUpperCase()}}</span> &nbsp; R = <b>${{fmt(r.R)}}</b> de 100 · lugar <b>${{DATA.filter(x=>x.R>r.R).length+1}}</b> de 300 en riesgo · prioridad de atención <b>#${{r.rango_prioridad}}</b></p>
+ <p class="note"><b>Municipios que lo integran</b> (porcentaje de la lista nominal del distrito): ${{r.municipios}}.</p>
  <h3>¿Por qué es ${{r.banda}}?</h3><div class="scale">${{scaleHTML(r)}}</div>
  <p class="note">Su R (${{fmt(r.R)}}) cae en el tramo ${{r.banda}} de la fila nacional; ${{cerca(r)}}.</p>
  <p class="note">Lo que más pesa: <b>${{top[0][0]}}</b> (${{pct(top[0][1])}}: ${{top[0][2]}}), <b>${{top[1][0]}}</b> (${{pct(top[1][1])}}) y <b>${{top[2][0]}}</b> (${{pct(top[2][1])}}).</p>

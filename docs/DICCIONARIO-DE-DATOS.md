@@ -6,6 +6,7 @@
 |---|---|---|
 | id_distrito | Clave `EE-DD` (entidad-distrito, cartografía 2023) | texto |
 | entidad, EDOCVE, DEF | Nombre y claves INE de entidad y distrito | — |
+| municipio_principal, n_municipios, municipios | Municipio con mayor lista nominal dentro del distrito, cuántos municipios lo integran y su composición (% de la lista nominal 2024; los menores a 3 % se agrupan). Derivado del CCPC 2024 a nivel sección; no es la cabecera oficial | — |
 | LN_2024 | Lista nominal de los cuadernillos, 2024 | personas |
 | banda | rojo · naranja · amarillo · verde | categoría |
 | R | Índice de riesgo | 0–100 |

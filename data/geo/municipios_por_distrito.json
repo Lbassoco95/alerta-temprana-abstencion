@@ -1,0 +1,1802 @@
+{
+"01-01": {
+"mun_principal": "Jesús María",
+"n_municipios": 10,
+"municipios": "Jesús María (27 %); Calvillo (14 %); San Francisco de los Romo (12 %); Rincón de Romos (11 %); Asientos (11 %); Pabellón de Arteaga (9 %); Tepezalá (5 %); El Llano (5 %); Cosío (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Jesús María Calvillo San Francisco de los Romo Rincón de Romos Asientos Pabellón de Arteaga Tepezalá El Llano Cosío San José de Gracía"
+},
+"01-02": {
+"mun_principal": "Aguascalientes",
+"n_municipios": 1,
+"municipios": "Aguascalientes (100 %)",
+"busqueda": "Aguascalientes"
+},
+"01-03": {
+"mun_principal": "Aguascalientes",
+"n_municipios": 1,
+"municipios": "Aguascalientes (100 %)",
+"busqueda": "Aguascalientes"
+},
+"02-01": {
+"mun_principal": "Mexicali",
+"n_municipios": 1,
+"municipios": "Mexicali (100 %)",
+"busqueda": "Mexicali"
+},
+"02-02": {
+"mun_principal": "Mexicali",
+"n_municipios": 1,
+"municipios": "Mexicali (100 %)",
+"busqueda": "Mexicali"
+},
+"02-03": {
+"mun_principal": "Ensenada",
+"n_municipios": 3,
+"municipios": "Ensenada (74 %); San Quintin (26 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Ensenada San Quintin San Felipe"
+},
+"02-04": {
+"mun_principal": "Tijuana",
+"n_municipios": 1,
+"municipios": "Tijuana (100 %)",
+"busqueda": "Tijuana"
+},
+"02-05": {
+"mun_principal": "Tijuana",
+"n_municipios": 1,
+"municipios": "Tijuana (100 %)",
+"busqueda": "Tijuana"
+},
+"02-06": {
+"mun_principal": "Tijuana",
+"n_municipios": 1,
+"municipios": "Tijuana (100 %)",
+"busqueda": "Tijuana"
+},
+"02-07": {
+"mun_principal": "Mexicali",
+"n_municipios": 3,
+"municipios": "Mexicali (59 %); Ensenada (37 %); San Felipe (5 %)",
+"busqueda": "Mexicali Ensenada San Felipe"
+},
+"02-08": {
+"mun_principal": "Tijuana",
+"n_municipios": 1,
+"municipios": "Tijuana (100 %)",
+"busqueda": "Tijuana"
+},
+"02-09": {
+"mun_principal": "Tijuana",
+"n_municipios": 3,
+"municipios": "Tijuana (39 %); Playas de Rosarito (34 %); Tecate (27 %)",
+"busqueda": "Tijuana Playas de Rosarito Tecate"
+},
+"03-01": {
+"mun_principal": "La Paz",
+"n_municipios": 4,
+"municipios": "La Paz (66 %); Comondú (17 %); Mulegé (13 %); Loreto (4 %)",
+"busqueda": "La Paz Comondú Mulegé Loreto"
+},
+"03-02": {
+"mun_principal": "Los Cabos",
+"n_municipios": 1,
+"municipios": "Los Cabos (100 %)",
+"busqueda": "Los Cabos"
+},
+"04-01": {
+"mun_principal": "Campeche",
+"n_municipios": 7,
+"municipios": "Campeche (63 %); Calkiní (9 %); Hopelche}én (9 %); Hecelchakán (7 %); Calakmul (6 %); Dzitbalché (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Campeche Calkiní Hopelche}én Hecelchakán Calakmul Dzitbalché Tenabo"
+},
+"04-02": {
+"mun_principal": "Carmen",
+"n_municipios": 6,
+"municipios": "Carmen (54 %); Champotón (17 %); Escárcega (13 %); Candelaria (10 %); Seybaplaya (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Carmen Champotón Escárcega Candelaria Seybaplaya Palizada"
+},
+"05-01": {
+"mun_principal": "Piedras Negras",
+"n_municipios": 6,
+"municipios": "Piedras Negras (44 %); Acuña (40 %); Nava (8 %); Zaragoza (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Piedras Negras Acuña Nava Zaragoza Jiménez Morelos"
+},
+"05-02": {
+"mun_principal": "San Pedro",
+"n_municipios": 11,
+"municipios": "San Pedro (26 %); Frontera (22 %); Múzquiz (19 %); Francisco I. Madero (16 %); San Buenaventura (7 %); Cuatrociénegas (3 %); y 5 municipios más con menos de 3 %",
+"busqueda": "San Pedro Frontera Múzquiz Francisco I. Madero San Buenaventura Cuatrociénegas Ocampo Nadadores Sierra Mojada Sacramento Lamadrid"
+},
+"05-03": {
+"mun_principal": "Monclova",
+"n_municipios": 13,
+"municipios": "Monclova (55 %); Sabinas (16 %); San Juan de Sabinas (11 %); Castaños (7 %); Allende (6 %); y 8 municipios más con menos de 3 %",
+"busqueda": "Monclova Sabinas San Juan de Sabinas Castaños Allende Villa Unión Progreso Escobedo Guerrero Candela Hidalgo Juárez Abasolo"
+},
+"05-04": {
+"mun_principal": "Saltillo",
+"n_municipios": 1,
+"municipios": "Saltillo (100 %)",
+"busqueda": "Saltillo"
+},
+"05-05": {
+"mun_principal": "Torreón",
+"n_municipios": 1,
+"municipios": "Torreón (100 %)",
+"busqueda": "Torreón"
+},
+"05-06": {
+"mun_principal": "Torreón",
+"n_municipios": 1,
+"municipios": "Torreón (100 %)",
+"busqueda": "Torreón"
+},
+"05-07": {
+"mun_principal": "Saltillo",
+"n_municipios": 1,
+"municipios": "Saltillo (100 %)",
+"busqueda": "Saltillo"
+},
+"05-08": {
+"mun_principal": "Matamoros",
+"n_municipios": 7,
+"municipios": "Matamoros (34 %); Ramos Arizpe (33 %); Parras (14 %); Arteaga (8 %); Viesca (6 %); General Cepeda (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Matamoros Ramos Arizpe Parras Arteaga Viesca General Cepeda Torreón"
+},
+"06-01": {
+"mun_principal": "Colima",
+"n_municipios": 5,
+"municipios": "Colima (43 %); Villa de Álvarez (37 %); Cuauhtémoc (8 %); Comala (6 %); Coquimatlán (6 %)",
+"busqueda": "Colima Villa de Álvarez Cuauhtémoc Comala Coquimatlán"
+},
+"06-02": {
+"mun_principal": "Manzanillo",
+"n_municipios": 5,
+"municipios": "Manzanillo (55 %); Tecomán (32 %); Armería (8 %); Minatitlán (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Manzanillo Tecomán Armería Minatitlán Ixtlahuacán"
+},
+"07-01": {
+"mun_principal": "Palenque",
+"n_municipios": 8,
+"municipios": "Palenque (33 %); Tila (19 %); Salto De Agua (16 %); Yajalón (10 %); Tumbalá (9 %); Sabanilla (7 %); Catazajá (5 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Palenque Tila Salto De Agua Yajalón Tumbalá Sabanilla Catazajá La Libertad"
+},
+"07-02": {
+"mun_principal": "Chenalhó",
+"n_municipios": 16,
+"municipios": "Chenalhó (14 %); Simojovel (13 %); Bochil (10 %); Ixtapa (8 %); Larráinzar (7 %); El Bosque (7 %); Huitiupaán (7 %); Pueblo Nuevo Solistahuacán (7 %); Jitotol (6 %); Pantelhó (6 %); Chalchihuitán (5 %); Mitontic (3 %); Soyaló (3 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Chenalhó Simojovel Bochil Ixtapa Larráinzar El Bosque Huitiupaán Pueblo Nuevo Solistahuacán Jitotol Pantelhó Chalchihuitán Mitontic Soyaló Aldama San Andrés Duraznal Santiago El Pinar"
+},
+"07-03": {
+"mun_principal": "Ocosingo",
+"n_municipios": 5,
+"municipios": "Ocosingo (58 %); Chilón (31 %); Benemérito de las Américas (5 %); Sitalá (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Ocosingo Chilón Benemérito de las Américas Sitalá Marqués de Comillas"
+},
+"07-04": {
+"mun_principal": "Reforma",
+"n_municipios": 25,
+"municipios": "Reforma (11 %); San Fernando (11 %); Pichucalco (9 %); Mezcalapa (6 %); Copainalá (6 %); Amatán (6 %); Juárez (6 %); Tecpatán (6 %); Ostuacán (5 %); Tapilula (3 %); Ocotepec (3 %); Pantepec (3 %); y 13 municipios más con menos de 3 %",
+"busqueda": "Reforma San Fernando Pichucalco Mezcalapa Copainalá Amatán Juárez Tecpatán Ostuacán Tapilula Ocotepec Pantepec Ixtacomitán Ixhuatán Rayón Coapilla Solosuchiapa Chapultenango Rincón Chamula San Pedro Francisco León Ixtapangajoya Chicoasén Tapalapa Osumacinta Sunuapa"
+},
+"07-05": {
+"mun_principal": "San Cristóbal de las Casas",
+"n_municipios": 5,
+"municipios": "San Cristóbal de las Casas (47 %); Chamula (23 %); Zinacantán (11 %); Tenejapa (10 %); San Juan Cancuc (8 %)",
+"busqueda": "San Cristóbal de las Casas Chamula Zinacantán Tenejapa San Juan Cancuc"
+},
+"07-06": {
+"mun_principal": "Tuxtla Gutiérrez",
+"n_municipios": 10,
+"municipios": "Tuxtla Gutiérrez (40 %); Chiapa de Corzo (25 %); Venustiano Carranza (15 %); Suchiapa (6 %); Acala (5 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Tuxtla Gutiérrez Chiapa de Corzo Venustiano Carranza Suchiapa Acala Emiliano Zapata Totolapa San Lucas Chiapilla Nicolás Ruíz"
+},
+"07-07": {
+"mun_principal": "Tonalá",
+"n_municipios": 9,
+"municipios": "Tonalá (21 %); Cintalapa (20 %); Pijijiapan (11 %); Mapastepec (10 %); Jiquipilas (10 %); Arriaga (10 %); Escuintla (7 %); Acapetahua (6 %); Acacoyagua (4 %)",
+"busqueda": "Tonalá Cintalapa Pijijiapan Mapastepec Jiquipilas Arriaga Escuintla Acapetahua Acacoyagua"
+},
+"07-08": {
+"mun_principal": "Comitán de Domínguez",
+"n_municipios": 7,
+"municipios": "Comitán de Domínguez (39 %); La Trinitaria (21 %); Frontera Comalapa (17 %); Chicomuselo (9 %); Bella Vista (5 %); Socoltenango (5 %); Tzimol (4 %)",
+"busqueda": "Comitán de Domínguez La Trinitaria Frontera Comalapa Chicomuselo Bella Vista Socoltenango Tzimol"
+},
+"07-09": {
+"mun_principal": "Tuxtla Gutiérrez",
+"n_municipios": 1,
+"municipios": "Tuxtla Gutiérrez (100 %)",
+"busqueda": "Tuxtla Gutiérrez"
+},
+"07-10": {
+"mun_principal": "Villaflores",
+"n_municipios": 9,
+"municipios": "Villaflores (26 %); Ocozocoautla de Espinosa (22 %); Villa Corzo (15 %); Berriozábal (13 %); La Concordia (11 %); Angel Albino Corzo (7 %); El Parral (4 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Villaflores Ocozocoautla de Espinosa Villa Corzo Berriozábal La Concordia Angel Albino Corzo El Parral Montecristo de Guerrero Capitán Luis Ángel Vidal"
+},
+"07-11": {
+"mun_principal": "Las Margaritas",
+"n_municipios": 11,
+"municipios": "Las Margaritas (33 %); Oxchuc (14 %); La Independencia (12 %); Teopisca (11 %); Altamirano (8 %); Las Rosas (7 %); Huixtán (6 %); Maravilla Tenejapa (3 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Las Margaritas Oxchuc La Independencia Teopisca Altamirano Las Rosas Huixtán Maravilla Tenejapa Chanal Amatenango del Valle San Cristóbal de las Casas"
+},
+"07-12": {
+"mun_principal": "Tapachula",
+"n_municipios": 7,
+"municipios": "Tapachula (61 %); Cacahoatán (11 %); Tuxtla Chico (10 %); Suchiate (8 %); Unión Juárez (4 %); Frontera Hidalgo (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Tapachula Cacahoatán Tuxtla Chico Suchiate Unión Juárez Frontera Hidalgo Metapa"
+},
+"07-13": {
+"mun_principal": "Tapachula",
+"n_municipios": 14,
+"municipios": "Tapachula (17 %); Motozintla (17 %); Huixtla (13 %); Huehuetán (9 %); Tuzantán (7 %); Villacomaltitlán (7 %); Amatenango de la Frontera (7 %); Mazatán (6 %); Siltepec (6 %); El Porvenir (3 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Tapachula Motozintla Huixtla Huehuetán Tuzantán Villacomaltitlán Amatenango de la Frontera Mazatán Siltepec El Porvenir Honduras de la Sierra Mazapa de Madero Bejucal de Ocampo La Grandeza"
+},
+"08-01": {
+"mun_principal": "Juárez",
+"n_municipios": 1,
+"municipios": "Juárez (100 %)",
+"busqueda": "Juárez"
+},
+"08-02": {
+"mun_principal": "Juárez",
+"n_municipios": 4,
+"municipios": "Juárez (93 %); Ahumada (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Juárez Ahumada Praxedis G. Guerrero Guadalupe"
+},
+"08-03": {
+"mun_principal": "Juárez",
+"n_municipios": 3,
+"municipios": "Juárez (92 %); Ascensión (6 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Juárez Ascensión Janos"
+},
+"08-04": {
+"mun_principal": "Juárez",
+"n_municipios": 1,
+"municipios": "Juárez (100 %)",
+"busqueda": "Juárez"
+},
+"08-05": {
+"mun_principal": "Delicias",
+"n_municipios": 14,
+"municipios": "Delicias (35 %); Camargo (12 %); Meoqui (11 %); Jiménez (9 %); Ojinaga (8 %); Saucillo (7 %); Aldama (7 %); Aquiles Serdán (4 %); Rosales (4 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Delicias Camargo Meoqui Jiménez Ojinaga Saucillo Aldama Aquiles Serdán Rosales Julimes La Cruz San Francisco de Conchos Coyame del Sotol Manuel Benavides"
+},
+"08-06": {
+"mun_principal": "Chihuahua",
+"n_municipios": 1,
+"municipios": "Chihuahua (100 %)",
+"busqueda": "Chihuahua"
+},
+"08-07": {
+"mun_principal": "Cuauhtémoc",
+"n_municipios": 19,
+"municipios": "Cuauhtémoc (40 %); Nuevo Casas Grandes (15 %); Guerrero (8 %); Namiquipa (6 %); Madera (6 %); Buenaventura (6 %); Casas Grandes (3 %); y 12 municipios más con menos de 3 %",
+"busqueda": "Cuauhtémoc Nuevo Casas Grandes Guerrero Namiquipa Madera Buenaventura Casas Grandes Riva Palacio Gómez Farías Ocampo Bachíniva Galeana Cusihuiriachi Ignacio Zaragoza Temósachic Santa Isabel Moris Gran Morelos Matachí"
+},
+"08-08": {
+"mun_principal": "Chihuahua",
+"n_municipios": 1,
+"municipios": "Chihuahua (100 %)",
+"busqueda": "Chihuahua"
+},
+"08-09": {
+"mun_principal": "Hidalgo del Parral",
+"n_municipios": 27,
+"municipios": "Hidalgo del Parral (30 %); Guachochi (12 %); Guadalupe y Calvo (11 %); Bocoyna (7 %); Urique (5 %); Balleza (5 %); y 21 municipios más con menos de 3 %",
+"busqueda": "Hidalgo del Parral Guachochi Guadalupe y Calvo Bocoyna Urique Balleza Santa Bárbara Batopilas de Manuel Gómez Morín Carichí Allende Guazapares Morelos Chínipas Uruachi Valle de Zaragoza Satevó San Francisco del Oro Matamoros López Dr. BelisaRío Domínguez Nonoava El Tule San Francisco de Borja Rosario Coronado Huejotitán Maguarichi"
+},
+"09-01": {
+"mun_principal": "Gustavo A. Madero",
+"n_municipios": 1,
+"municipios": "Gustavo A. Madero (100 %)",
+"busqueda": "Gustavo A. Madero"
+},
+"09-02": {
+"mun_principal": "Gustavo A. Madero",
+"n_municipios": 2,
+"municipios": "Gustavo A. Madero (72 %); Cuauhtémoc (28 %)",
+"busqueda": "Gustavo A. Madero Cuauhtémoc"
+},
+"09-03": {
+"mun_principal": "Azcapotzalco",
+"n_municipios": 1,
+"municipios": "Azcapotzalco (100 %)",
+"busqueda": "Azcapotzalco"
+},
+"09-04": {
+"mun_principal": "Iztapalapa",
+"n_municipios": 1,
+"municipios": "Iztapalapa (100 %)",
+"busqueda": "Iztapalapa"
+},
+"09-05": {
+"mun_principal": "Tlalpan",
+"n_municipios": 2,
+"municipios": "Tlalpan (62 %); Xochimilco (38 %)",
+"busqueda": "Tlalpan Xochimilco"
+},
+"09-06": {
+"mun_principal": "La Magdalena Contreras",
+"n_municipios": 2,
+"municipios": "La Magdalena Contreras (61 %); Álvaro Obregón (39 %)",
+"busqueda": "La Magdalena Contreras Álvaro Obregón"
+},
+"09-07": {
+"mun_principal": "Gustavo A. Madero",
+"n_municipios": 1,
+"municipios": "Gustavo A. Madero (100 %)",
+"busqueda": "Gustavo A. Madero"
+},
+"09-08": {
+"mun_principal": "Coyoacán",
+"n_municipios": 1,
+"municipios": "Coyoacán (100 %)",
+"busqueda": "Coyoacán"
+},
+"09-09": {
+"mun_principal": "Tláhuac",
+"n_municipios": 1,
+"municipios": "Tláhuac (100 %)",
+"busqueda": "Tláhuac"
+},
+"09-10": {
+"mun_principal": "Miguel Hidalgo",
+"n_municipios": 1,
+"municipios": "Miguel Hidalgo (100 %)",
+"busqueda": "Miguel Hidalgo"
+},
+"09-11": {
+"mun_principal": "Venustiano Carranza",
+"n_municipios": 1,
+"municipios": "Venustiano Carranza (100 %)",
+"busqueda": "Venustiano Carranza"
+},
+"09-12": {
+"mun_principal": "Cuauhtémoc",
+"n_municipios": 1,
+"municipios": "Cuauhtémoc (100 %)",
+"busqueda": "Cuauhtémoc"
+},
+"09-13": {
+"mun_principal": "Iztacalco",
+"n_municipios": 1,
+"municipios": "Iztacalco (100 %)",
+"busqueda": "Iztacalco"
+},
+"09-14": {
+"mun_principal": "Tlalpan",
+"n_municipios": 1,
+"municipios": "Tlalpan (100 %)",
+"busqueda": "Tlalpan"
+},
+"09-15": {
+"mun_principal": "Benito Juárez",
+"n_municipios": 1,
+"municipios": "Benito Juárez (100 %)",
+"busqueda": "Benito Juárez"
+},
+"09-16": {
+"mun_principal": "Álvaro Obregón",
+"n_municipios": 1,
+"municipios": "Álvaro Obregón (100 %)",
+"busqueda": "Álvaro Obregón"
+},
+"09-17": {
+"mun_principal": "Cuajimalpa de Morelos",
+"n_municipios": 2,
+"municipios": "Cuajimalpa de Morelos (53 %); Álvaro Obregón (47 %)",
+"busqueda": "Cuajimalpa de Morelos Álvaro Obregón"
+},
+"09-18": {
+"mun_principal": "Iztapalapa",
+"n_municipios": 1,
+"municipios": "Iztapalapa (100 %)",
+"busqueda": "Iztapalapa"
+},
+"09-19": {
+"mun_principal": "Coyoacán",
+"n_municipios": 2,
+"municipios": "Coyoacán (58 %); Iztapalapa (42 %)",
+"busqueda": "Coyoacán Iztapalapa"
+},
+"09-20": {
+"mun_principal": "Iztapalapa",
+"n_municipios": 1,
+"municipios": "Iztapalapa (100 %)",
+"busqueda": "Iztapalapa"
+},
+"09-21": {
+"mun_principal": "Xochimilco",
+"n_municipios": 2,
+"municipios": "Xochimilco (66 %); Milpa Alta (34 %)",
+"busqueda": "Xochimilco Milpa Alta"
+},
+"09-22": {
+"mun_principal": "Iztapalapa",
+"n_municipios": 1,
+"municipios": "Iztapalapa (100 %)",
+"busqueda": "Iztapalapa"
+},
+"10-01": {
+"mun_principal": "Durango",
+"n_municipios": 11,
+"municipios": "Durango (48 %); Santiago Papasquiaro (12 %); Pueblo Nuevo (11 %); Mezquital (10 %); Tamazula (5 %); San Dimas (4 %); Tepehuanes (3 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Durango Santiago Papasquiaro Pueblo Nuevo Mezquital Tamazula San Dimas Tepehuanes Guanaceví Topia Otáez Canelas"
+},
+"10-02": {
+"mun_principal": "Gómez Palacio",
+"n_municipios": 10,
+"municipios": "Gómez Palacio (81 %); Mapimí (6 %); Tlahualilo (5 %); El Oro (3 %); y 6 municipios más con menos de 3 %",
+"busqueda": "Gómez Palacio Mapimí Tlahualilo El Oro Ocampo Indé Hidalgo San Bernardo San Luis del Cordero San Pedro del Gallo"
+},
+"10-03": {
+"mun_principal": "Lerdo",
+"n_municipios": 18,
+"municipios": "Lerdo (33 %); Guadalupe Victoria (9 %); Cuencamé (8 %); Canatlán (7 %); Nuevo Ideal (6 %); Poanas (6 %); Vicente Guerrero (5 %); Nombre de Dios (4 %); Pánuco de Coronado (3 %); y 9 municipios más con menos de 3 %",
+"busqueda": "Lerdo Guadalupe Victoria Cuencamé Canatlán Nuevo Ideal Poanas Vicente Guerrero Nombre de Dios Pánuco de Coronado Rodeo San Juan del Río Nazas Peñón Blanco Simón Bolívar Súchil Santa Clara San Juan de Guadalupe Coneto de Comonfort"
+},
+"10-04": {
+"mun_principal": "Durango",
+"n_municipios": 1,
+"municipios": "Durango (100 %)",
+"busqueda": "Durango"
+},
+"11-01": {
+"mun_principal": "Dolores Hidalgo Cuna de la Independencia Nacional",
+"n_municipios": 8,
+"municipios": "Dolores Hidalgo Cuna de la Independencia Nacional (42 %); San Luis de la Paz (34 %); Doctor Mora (7 %); Victoria (6 %); Tierra Blanca (5 %); Xichú (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Dolores Hidalgo Cuna de la Independencia Nacional San Luis de la Paz Doctor Mora Victoria Tierra Blanca Xichú Santa Catarina Atarjea"
+},
+"11-02": {
+"mun_principal": "San Miguel de Allende",
+"n_municipios": 4,
+"municipios": "San Miguel de Allende (42 %); San José Iturbide (20 %); Comonfort (19 %); Celaya (19 %)",
+"busqueda": "San Miguel de Allende San José Iturbide Comonfort Celaya"
+},
+"11-03": {
+"mun_principal": "León",
+"n_municipios": 1,
+"municipios": "León (100 %)",
+"busqueda": "León"
+},
+"11-04": {
+"mun_principal": "Guanajuato",
+"n_municipios": 4,
+"municipios": "Guanajuato (52 %); San Felipe (30 %); San Diego de la Unión (10 %); Ocampo (7 %)",
+"busqueda": "Guanajuato San Felipe San Diego de la Unión Ocampo"
+},
+"11-05": {
+"mun_principal": "León",
+"n_municipios": 1,
+"municipios": "León (100 %)",
+"busqueda": "León"
+},
+"11-06": {
+"mun_principal": "León",
+"n_municipios": 1,
+"municipios": "León (100 %)",
+"busqueda": "León"
+},
+"11-07": {
+"mun_principal": "San Francisco del Rincón",
+"n_municipios": 5,
+"municipios": "San Francisco del Rincón (37 %); Purísima del Rincón (23 %); Romita (18 %); Manuel Doblado (12 %); Cuerámaro (9 %)",
+"busqueda": "San Francisco del Rincón Purísima del Rincón Romita Manuel Doblado Cuerámaro"
+},
+"11-08": {
+"mun_principal": "Salamanca",
+"n_municipios": 3,
+"municipios": "Salamanca (66 %); Santa Cruz de Juventino Rosas (19 %); Villagrán (15 %)",
+"busqueda": "Salamanca Santa Cruz de Juventino Rosas Villagrán"
+},
+"11-09": {
+"mun_principal": "Irapuato",
+"n_municipios": 2,
+"municipios": "Irapuato (51 %); Silao de la Victoria (49 %)",
+"busqueda": "Irapuato Silao de la Victoria"
+},
+"11-10": {
+"mun_principal": "Salvatierra",
+"n_municipios": 7,
+"municipios": "Salvatierra (23 %); Cortazar (21 %); Yuriria (18 %); Uriangato (15 %); Moroleón (13 %); Jaral del Progreso (8 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Salvatierra Cortazar Yuriria Uriangato Moroleón Jaral del Progreso Santiago Maravatío"
+},
+"11-11": {
+"mun_principal": "León",
+"n_municipios": 1,
+"municipios": "León (100 %)",
+"busqueda": "León"
+},
+"11-12": {
+"mun_principal": "Celaya",
+"n_municipios": 1,
+"municipios": "Celaya (100 %)",
+"busqueda": "Celaya"
+},
+"11-13": {
+"mun_principal": "Pénjamo",
+"n_municipios": 5,
+"municipios": "Pénjamo (37 %); Valle de Santiago (34 %); Abasolo (20 %); Huanímaro (5 %); Pueblo Nuevo (3 %)",
+"busqueda": "Pénjamo Valle de Santiago Abasolo Huanímaro Pueblo Nuevo"
+},
+"11-14": {
+"mun_principal": "Acámbaro",
+"n_municipios": 7,
+"municipios": "Acámbaro (31 %); Apaseo el Grande (23 %); Apaseo el Alto (16 %); Jerécuaro (13 %); Tarimoro (10 %); Tarandacuao (4 %); Coroneo (3 %)",
+"busqueda": "Acámbaro Apaseo el Grande Apaseo el Alto Jerécuaro Tarimoro Tarandacuao Coroneo"
+},
+"11-15": {
+"mun_principal": "Irapuato",
+"n_municipios": 1,
+"municipios": "Irapuato (100 %)",
+"busqueda": "Irapuato"
+},
+"12-01": {
+"mun_principal": "Taxco de Alarcón",
+"n_municipios": 19,
+"municipios": "Taxco de Alarcón (22 %); Teloloapan (11 %); Coyuca de Catalán (8 %); Pungarabato (8 %); Ajuchitlán del Progreso (7 %); Arcelia (7 %); Cutzamala de Pinzón (5 %); Tlapehuala (5 %); San Miguel Totolapan (4 %); Zirándaro (4 %); y 9 municipios más con menos de 3 %",
+"busqueda": "Taxco de Alarcón Teloloapan Coyuca de Catalán Pungarabato Ajuchitlán del Progreso Arcelia Cutzamala de Pinzón Tlapehuala San Miguel Totolapan Zirándaro Buenavista de Cuéllar Tetipac Tlalchapa Pilcaya Apaxtla Cuetzala del Progreso Ixcateopan de Cuauhtémoc Pedro Ascencio Alquisiras General Canuto A. Neri"
+},
+"12-02": {
+"mun_principal": "Acapulco de Juárez",
+"n_municipios": 1,
+"municipios": "Acapulco de Juárez (100 %)",
+"busqueda": "Acapulco de Juárez"
+},
+"12-03": {
+"mun_principal": "Zihuatanejo de Azueta",
+"n_municipios": 8,
+"municipios": "Zihuatanejo de Azueta (31 %); Coyuca de Benítez (17 %); Técpan de Galeana (15 %); Atoyac de Álvarez (14 %); Petatlán (10 %); La Unión de Isidoro Montes de Oca (7 %); Benito Juárez (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Zihuatanejo de Azueta Coyuca de Benítez Técpan de Galeana Atoyac de Álvarez Petatlán La Unión de Isidoro Montes de Oca Benito Juárez Coahuayutla de José María Izazaga"
+},
+"12-04": {
+"mun_principal": "Acapulco de Juárez",
+"n_municipios": 1,
+"municipios": "Acapulco de Juárez (100 %)",
+"busqueda": "Acapulco de Juárez"
+},
+"12-05": {
+"mun_principal": "Tlapa de Comonfort",
+"n_municipios": 24,
+"municipios": "Tlapa de Comonfort (21 %); Acatepec (8 %); Olinalá (7 %); Ahuacuotzingo (6 %); Atlixtac (6 %); Malinaltepec (5 %); Cochoapa el Grande (5 %); Alcozauca de Guerrero (5 %); Copanatoyac (5 %); Metlatónoc (4 %); Huamuxtitlán (4 %); José Joaquín de Herrera (4 %); Xalpatláhuac (3 %); y 11 municipios más con menos de 3 %",
+"busqueda": "Tlapa de Comonfort Acatepec Olinalá Ahuacuotzingo Atlixtac Malinaltepec Cochoapa el Grande Alcozauca de Guerrero Copanatoyac Metlatónoc Huamuxtitlán José Joaquín de Herrera Xalpatláhuac Iliatenco Zapotitlán Tablas Tlacoapa Xochihuehuetlán Cualác Alpoyeca Tlalixtaquilla de Maldonado Santa Cruz del Rincón Atlamajalcingo del Monte San Luis Acatlán Chilapa de Álvarez"
+},
+"12-06": {
+"mun_principal": "Iguala de la Independencia",
+"n_municipios": 10,
+"municipios": "Iguala de la Independencia (33 %); Chilapa de Álvarez (27 %); Huitzuco de los Figueroa (9 %); Tepecoacuilco de Trujano (7 %); Quechultenango (7 %); Zitlala (5 %); Mártir De Cuilapan (4 %); Cocula (4 %); Copalillo (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Iguala de la Independencia Chilapa de Álvarez Huitzuco de los Figueroa Tepecoacuilco de Trujano Quechultenango Zitlala Mártir De Cuilapan Cocula Copalillo Atenango del Río"
+},
+"12-07": {
+"mun_principal": "Chilpancingo de los Bravo",
+"n_municipios": 6,
+"municipios": "Chilpancingo de los Bravo (63 %); Eduardo Neri (12 %); Tixtla de Guerrero (10 %); General Heliodoro Castillo (7 %); Leonardo Bravo (5 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Chilpancingo de los Bravo Eduardo Neri Tixtla de Guerrero General Heliodoro Castillo Leonardo Bravo Mochitlán"
+},
+"12-08": {
+"mun_principal": "Ometepec",
+"n_municipios": 20,
+"municipios": "Ometepec (14 %); Ayutla de los Libres (11 %); Tecoanapa (9 %); San Marcos (9 %); San Luis Acatlán (9 %); Xochistlahuaca (6 %); Juan R. Escudero (5 %); Tlacoachistlahuaca (5 %); Florencio Villarreal (5 %); Cuajinicuilapa (4 %); Cuautepec (4 %); Copala (3 %); Azoyú (3 %); y 7 municipios más con menos de 3 %",
+"busqueda": "Ometepec Ayutla de los Libres Tecoanapa San Marcos San Luis Acatlán Xochistlahuaca Juan R. Escudero Tlacoachistlahuaca Florencio Villarreal Cuajinicuilapa Cuautepec Copala Azoyú Marquelia Igualapa Ñuu Savi Las Vigas Juchitán San Nicolás Metlatónoc"
+},
+"13-01": {
+"mun_principal": "Huejutla de Reyes",
+"n_municipios": 18,
+"municipios": "Huejutla de Reyes (29 %); San Felipe Orizatlán (9 %); Zacualtipán de Ángeles (9 %); Tlanchinol (8 %); Tepehuacán de Guerrero (6 %); Yahualica (6 %); Huautla (5 %); Atlapexco (5 %); Xochiatipan (4 %); Calnali (4 %); Tianguistengo (3 %); y 7 municipios más con menos de 3 %",
+"busqueda": "Huejutla de Reyes San Felipe Orizatlán Zacualtipán de Ángeles Tlanchinol Tepehuacán de Guerrero Yahualica Huautla Atlapexco Xochiatipan Calnali Tianguistengo Huazalingo Molango de Escamilla Jaltocán Lolotla Xochicoatlán Eloxochitlán Juárez Hidalgo"
+},
+"13-02": {
+"mun_principal": "Ixmiquilpan",
+"n_municipios": 18,
+"municipios": "Ixmiquilpan (21 %); Mixquiahuala de Juárez (10 %); Zimapán (9 %); Tecozautla (8 %); San Salvador (8 %); Progreso de Obregón (5 %); Chapulhuacán (5 %); Alfajayucan (4 %); Tasquillo (4 %); Cardonal (4 %); Chilcuautla (4 %); Santiago de Anaya (4 %); Pisaflores (4 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Ixmiquilpan Mixquiahuala de Juárez Zimapán Tecozautla San Salvador Progreso de Obregón Chapulhuacán Alfajayucan Tasquillo Cardonal Chilcuautla Santiago de Anaya Pisaflores Jacala de Ledezma La Misión Tlahuiltepa Nicolás Flores Pacula"
+},
+"13-03": {
+"mun_principal": "Mineral de la Reforma",
+"n_municipios": 12,
+"municipios": "Mineral de la Reforma (45 %); Actopan (15 %); Atotonilco el Grande (7 %); Metztitlán (5 %); El Arenal (5 %); Huasca de Ocampo (5 %); Singuilucan (4 %); Epazoyucan (4 %); Mineral del Monte (4 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Mineral de la Reforma Actopan Atotonilco el Grande Metztitlán El Arenal Huasca de Ocampo Singuilucan Epazoyucan Mineral del Monte San Agustón Metzquititlán Omitlán de Juárez Mineral del Chico"
+},
+"13-04": {
+"mun_principal": "Tulancingo de Bravo",
+"n_municipios": 10,
+"municipios": "Tulancingo de Bravo (42 %); Cuautepec de Hinojosa (14 %); Acaxochitlán (10 %); Santiago Tulantepec de Lugo Guerrero (9 %); Acatlán (5 %); Huehuetla (5 %); San Bartolo Tutotepec (4 %); Tenango de Doria (4 %); Metepec (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Tulancingo de Bravo Cuautepec de Hinojosa Acaxochitlán Santiago Tulantepec de Lugo Guerrero Acatlán Huehuetla San Bartolo Tutotepec Tenango de Doria Metepec Agua Blanca de Iturbide"
+},
+"13-05": {
+"mun_principal": "Tula de Allende",
+"n_municipios": 10,
+"municipios": "Tula de Allende (26 %); Tepeji del Río de Ocampo (19 %); Atotonilco de Tula (12 %); Tezontepec de Aldama (11 %); Huichapan (10 %); Atitalaquia (6 %); Tlaxcoapan (6 %); Nopala de Villagrán (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Tula de Allende Tepeji del Río de Ocampo Atotonilco de Tula Tezontepec de Aldama Huichapan Atitalaquia Tlaxcoapan Nopala de Villagrán Chapantongo Tepetitlán"
+},
+"13-06": {
+"mun_principal": "Pachuca de Soto",
+"n_municipios": 6,
+"municipios": "Pachuca de Soto (72 %); Francisco I. Madero (9 %); San Agustín Tlaxiaca (8 %); Ajacuba (4 %); Tlahuelilpan (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Pachuca de Soto Francisco I. Madero San Agustín Tlaxiaca Ajacuba Tlahuelilpan Tetepango"
+},
+"13-07": {
+"mun_principal": "Tizayuca",
+"n_municipios": 10,
+"municipios": "Tizayuca (38 %); Tepeapulco (15 %); Zempoala (14 %); Apan (11 %); Zapotlán de Juárez (5 %); Tolcayuca (4 %); Emiliano Zapata (4 %); Villa de Tezontepec (3 %); Almoloya (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Tizayuca Tepeapulco Zempoala Apan Zapotlán de Juárez Tolcayuca Emiliano Zapata Villa de Tezontepec Almoloya Tlanalapa"
+},
+"14-01": {
+"mun_principal": "Tala",
+"n_municipios": 23,
+"municipios": "Tala (19 %); Ameca (16 %); Tequila (10 %); Ahualulco de Mercado (6 %); El Arenal (5 %); Magdalena (5 %); Colotlán (5 %); Etzatlán (5 %); Mezquitic (5 %); Amatitán (4 %); y 13 municipios más con menos de 3 %",
+"busqueda": "Tala Ameca Tequila Ahualulco de Mercado El Arenal Magdalena Colotlán Etzatlán Mezquitic Amatitán Teuchitlán San Juanito de Escobedo Huejuquilla el Alto Hostotipaquillo Bolaños Huejúcar Villa Guerrero Totatiche Santa María de los Ángeles San Marcos San Cristóbal de la Barranca Chimaltitán San Martín de Bolaños"
+},
+"14-02": {
+"mun_principal": "Lagos de Moreno",
+"n_municipios": 7,
+"municipios": "Lagos de Moreno (41 %); San Juan de los Lagos (19 %); Encarnación de Díaz (13 %); Teocaltiche (10 %); Ojuelos de Jalisco (7 %); Villa Hidalgo (5 %); Unión de San Antonio (5 %)",
+"busqueda": "Lagos de Moreno San Juan de los Lagos Encarnación de Díaz Teocaltiche Ojuelos de Jalisco Villa Hidalgo Unión de San Antonio"
+},
+"14-03": {
+"mun_principal": "Tepatitlán de Morelos",
+"n_municipios": 13,
+"municipios": "Tepatitlán de Morelos (38 %); Zapotlanejo (17 %); Yahualica de González Gallo (6 %); Tototlán (6 %); Juanacatlán (5 %); Acatic (5 %); Ixtlahuacán del Río (5 %); San Ignacio Cerro Gordo (4 %); Zapotlán del Rey (4 %); Cuquío (4 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Tepatitlán de Morelos Zapotlanejo Yahualica de González Gallo Tototlán Juanacatlán Acatic Ixtlahuacán del Río San Ignacio Cerro Gordo Zapotlán del Rey Cuquío Valle de Guadalupe Mexticacán Cañadas de Obregón"
+},
+"14-04": {
+"mun_principal": "Zapopan",
+"n_municipios": 1,
+"municipios": "Zapopan (100 %)",
+"busqueda": "Zapopan"
+},
+"14-05": {
+"mun_principal": "Puerto Vallarta",
+"n_municipios": 11,
+"municipios": "Puerto Vallarta (74 %); Tomatlán (8 %); Mascota (4 %); Talpa de Allende (4 %); y 7 municipios más con menos de 3 %",
+"busqueda": "Puerto Vallarta Tomatlán Mascota Talpa de Allende Cabo Corrientes Atengo San Sebastián del Oeste Guachinango Atenguillo Mixtlán Cuautla"
+},
+"14-06": {
+"mun_principal": "Zapopan",
+"n_municipios": 1,
+"municipios": "Zapopan (100 %)",
+"busqueda": "Zapopan"
+},
+"14-07": {
+"mun_principal": "Tonalá",
+"n_municipios": 1,
+"municipios": "Tonalá (100 %)",
+"busqueda": "Tonalá"
+},
+"14-08": {
+"mun_principal": "Guadalajara",
+"n_municipios": 1,
+"municipios": "Guadalajara (100 %)",
+"busqueda": "Guadalajara"
+},
+"14-09": {
+"mun_principal": "Guadalajara",
+"n_municipios": 1,
+"municipios": "Guadalajara (100 %)",
+"busqueda": "Guadalajara"
+},
+"14-10": {
+"mun_principal": "Zapopan",
+"n_municipios": 1,
+"municipios": "Zapopan (100 %)",
+"busqueda": "Zapopan"
+},
+"14-11": {
+"mun_principal": "Guadalajara",
+"n_municipios": 1,
+"municipios": "Guadalajara (100 %)",
+"busqueda": "Guadalajara"
+},
+"14-12": {
+"mun_principal": "Tlajomulco de Zúñiga",
+"n_municipios": 2,
+"municipios": "Tlajomulco de Zúñiga (63 %); Zapopan (37 %)",
+"busqueda": "Tlajomulco de Zúñiga Zapopan"
+},
+"14-13": {
+"mun_principal": "San Pedro Tlaquepaque",
+"n_municipios": 2,
+"municipios": "San Pedro Tlaquepaque (60 %); Guadalajara (40 %)",
+"busqueda": "San Pedro Tlaquepaque Guadalajara"
+},
+"14-14": {
+"mun_principal": "Tlajomulco de Zúñiga",
+"n_municipios": 1,
+"municipios": "Tlajomulco de Zúñiga (100 %)",
+"busqueda": "Tlajomulco de Zúñiga"
+},
+"14-15": {
+"mun_principal": "Arandas",
+"n_municipios": 11,
+"municipios": "Arandas (19 %); La Barca (18 %); Atotonilco el Alto (15 %); Ayotlán (9 %); Jalostotitlán (8 %); San Miguel el Alto (8 %); Jamay (6 %); Degollado (6 %); Jesús María (5 %); San Julián (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Arandas La Barca Atotonilco el Alto Ayotlán Jalostotitlán San Miguel el Alto Jamay Degollado Jesús María San Julián San Diego de Alejandría"
+},
+"14-16": {
+"mun_principal": "San Pedro Tlaquepaque",
+"n_municipios": 1,
+"municipios": "San Pedro Tlaquepaque (100 %)",
+"busqueda": "San Pedro Tlaquepaque"
+},
+"14-17": {
+"mun_principal": "Ocotlán",
+"n_municipios": 10,
+"municipios": "Ocotlán (26 %); Ixtlahuacán de los Membrillos (14 %); Chapala (14 %); Poncitlán (13 %); Jocotepec (12 %); Zacoalco de Torres (8 %); Acatlán de Juárez (6 %); Villa Corona (5 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Ocotlán Ixtlahuacán de los Membrillos Chapala Poncitlán Jocotepec Zacoalco de Torres Acatlán de Juárez Villa Corona Techaluta de Montenegro Jamay"
+},
+"14-18": {
+"mun_principal": "Autlán de Navarro",
+"n_municipios": 25,
+"municipios": "Autlán de Navarro (16 %); Cihuatlán (8 %); San Martín Hidalgo (8 %); Cocula (7 %); El Grullo (6 %); La Huerta (6 %); Casimiro Castillo (5 %); Tapalpa (5 %); Tecolotlán (4 %); Cuautitlán de García Barragán (4 %); San Gabriel (4 %); Unión de Tula (4 %); Ayutla (3 %); y 12 municipios más con menos de 3 %",
+"busqueda": "Autlán de Navarro Cihuatlán San Martín Hidalgo Cocula El Grullo La Huerta Casimiro Castillo Tapalpa Tecolotlán Cuautitlán de García Barragán San Gabriel Unión de Tula Ayutla Villa Purificación Tolimán Tenamaxtlán El Limón Tonaya Juchitlán Atemajac de Brizuela Zapotitlán de Vadillo Chiquilistlán Amacueca Tuxcacuesco Ejutla"
+},
+"14-19": {
+"mun_principal": "Zapotlán el Grande",
+"n_municipios": 20,
+"municipios": "Zapotlán el Grande (27 %); Tamazula de Gordiano (10 %); Sayula (8 %); Tuxpan (8 %); Zapotiltic (8 %); Tizapán el Alto (5 %); Tecalitlán (4 %); Gómez Farías (4 %); Mazamitla (4 %); y 11 municipios más con menos de 3 %",
+"busqueda": "Zapotlán el Grande Tamazula de Gordiano Sayula Tuxpan Zapotiltic Tizapán el Alto Tecalitlán Gómez Farías Mazamitla Teocuitatlán de Corona Pihuamo Quitupan Atoyac Tuxcueca Tonila Jilotlán de los Dolores Valle de Juárez Concepción de Buenos Aires La Manzanilla de la Paz Santa María del Oro"
+},
+"14-20": {
+"mun_principal": "El Salto",
+"n_municipios": 3,
+"municipios": "El Salto (56 %); Tonalá (44 %); y 1 municipio más con menos de 3 %",
+"busqueda": "El Salto Tonalá San Pedro Tlaquepaque"
+},
+"15-01": {
+"mun_principal": "Jilotepec",
+"n_municipios": 10,
+"municipios": "Jilotepec (22 %); Temascalcingo (16 %); Acambay de Ruíz Castañeda (15 %); Aculco (11 %); El Oro (9 %); Morelos (8 %); Chapa de Mota (7 %); Timilpan (4 %); Polotitlán (4 %); Soyaniquilpan de Juárez (4 %)",
+"busqueda": "Jilotepec Temascalcingo Acambay de Ruíz Castañeda Aculco El Oro Morelos Chapa de Mota Timilpan Polotitlán Soyaniquilpan de Juárez"
+},
+"15-02": {
+"mun_principal": "Tultepec",
+"n_municipios": 3,
+"municipios": "Tultepec (46 %); Cuautitlán (38 %); Melchor Ocampo (16 %)",
+"busqueda": "Tultepec Cuautitlán Melchor Ocampo"
+},
+"15-03": {
+"mun_principal": "Ixtlahuaca",
+"n_municipios": 4,
+"municipios": "Ixtlahuaca (38 %); Atlacomulco (27 %); Jiquipilco (18 %); Jocotitlán (17 %)",
+"busqueda": "Ixtlahuaca Atlacomulco Jiquipilco Jocotitlán"
+},
+"15-04": {
+"mun_principal": "Nicolás Romero",
+"n_municipios": 1,
+"municipios": "Nicolás Romero (100 %)",
+"busqueda": "Nicolás Romero"
+},
+"15-05": {
+"mun_principal": "Tecámac",
+"n_municipios": 3,
+"municipios": "Tecámac (72 %); Teotihuacán (17 %); Temascalapa (11 %)",
+"busqueda": "Tecámac Teotihuacán Temascalapa"
+},
+"15-06": {
+"mun_principal": "Coacalco de Berriozábal",
+"n_municipios": 2,
+"municipios": "Coacalco de Berriozábal (67 %); Tultitlán (33 %)",
+"busqueda": "Coacalco de Berriozábal Tultitlán"
+},
+"15-07": {
+"mun_principal": "Cuautitlán Izcalli",
+"n_municipios": 1,
+"municipios": "Cuautitlán Izcalli (100 %)",
+"busqueda": "Cuautitlán Izcalli"
+},
+"15-08": {
+"mun_principal": "Tultitlán",
+"n_municipios": 2,
+"municipios": "Tultitlán (78 %); Cuautitlán Izcalli (22 %)",
+"busqueda": "Tultitlán Cuautitlán Izcalli"
+},
+"15-09": {
+"mun_principal": "San Felipe del Progreso",
+"n_municipios": 5,
+"municipios": "San Felipe del Progreso (32 %); Villa Victoria (24 %); San José del Rincón (23 %); Villa de Allende (12 %); Donato Guerra (9 %)",
+"busqueda": "San Felipe del Progreso Villa Victoria San José del Rincón Villa de Allende Donato Guerra"
+},
+"15-10": {
+"mun_principal": "Ecatepec de Morelos",
+"n_municipios": 1,
+"municipios": "Ecatepec de Morelos (100 %)",
+"busqueda": "Ecatepec de Morelos"
+},
+"15-11": {
+"mun_principal": "Ecatepec de Morelos",
+"n_municipios": 1,
+"municipios": "Ecatepec de Morelos (100 %)",
+"busqueda": "Ecatepec de Morelos"
+},
+"15-12": {
+"mun_principal": "Ixtapaluca",
+"n_municipios": 1,
+"municipios": "Ixtapaluca (100 %)",
+"busqueda": "Ixtapaluca"
+},
+"15-13": {
+"mun_principal": "Ecatepec de Morelos",
+"n_municipios": 1,
+"municipios": "Ecatepec de Morelos (100 %)",
+"busqueda": "Ecatepec de Morelos"
+},
+"15-14": {
+"mun_principal": "Acolman",
+"n_municipios": 9,
+"municipios": "Acolman (36 %); Tezoyuca (14 %); Otumba (11 %); Tepetlaoxtoc (9 %); Chiautla (9 %); San Martín de las Pirámides (9 %); Axapusco (8 %); Nopaltepec (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Acolman Tezoyuca Otumba Tepetlaoxtoc Chiautla San Martín de las Pirámides Axapusco Nopaltepec Papalotla"
+},
+"15-15": {
+"mun_principal": "Atizapán de Zaragoza",
+"n_municipios": 1,
+"municipios": "Atizapán de Zaragoza (100 %)",
+"busqueda": "Atizapán de Zaragoza"
+},
+"15-16": {
+"mun_principal": "Ecatepec de Morelos",
+"n_municipios": 2,
+"municipios": "Ecatepec de Morelos (50 %); Tlalnepantla de Baz (50 %)",
+"busqueda": "Ecatepec de Morelos Tlalnepantla de Baz"
+},
+"15-17": {
+"mun_principal": "Nezahualcóyotl",
+"n_municipios": 2,
+"municipios": "Nezahualcóyotl (57 %); Ecatepec de Morelos (43 %)",
+"busqueda": "Nezahualcóyotl Ecatepec de Morelos"
+},
+"15-18": {
+"mun_principal": "Huixquilucan",
+"n_municipios": 5,
+"municipios": "Huixquilucan (61 %); Otzolotepec (17 %); Xonacatlán (14 %); Jilotzingo (5 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Huixquilucan Otzolotepec Xonacatlán Jilotzingo Isidro Fabela"
+},
+"15-19": {
+"mun_principal": "Tlalnepantla de Baz",
+"n_municipios": 1,
+"municipios": "Tlalnepantla de Baz (100 %)",
+"busqueda": "Tlalnepantla de Baz"
+},
+"15-20": {
+"mun_principal": "Tecámac",
+"n_municipios": 4,
+"municipios": "Tecámac (71 %); Nextlalpan (15 %); Jaltenco (9 %); Tonanitla (4 %)",
+"busqueda": "Tecámac Nextlalpan Jaltenco Tonanitla"
+},
+"15-21": {
+"mun_principal": "Ixtapaluca",
+"n_municipios": 12,
+"municipios": "Ixtapaluca (30 %); Amecameca (15 %); Tlalmanalco (13 %); Atlautla (8 %); Ozumba (7 %); Juchitepec (6 %); Tepetlixpa (5 %); Cocotitlán (4 %); Temamatla (4 %); Tenango del Aire (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Ixtapaluca Amecameca Tlalmanalco Atlautla Ozumba Juchitepec Tepetlixpa Cocotitlán Temamatla Tenango del Aire Ecatzingo Ayapango"
+},
+"15-22": {
+"mun_principal": "Naucalpan de Juárez",
+"n_municipios": 2,
+"municipios": "Naucalpan de Juárez (84 %); Atizapán de Zaragoza (16 %)",
+"busqueda": "Naucalpan de Juárez Atizapán de Zaragoza"
+},
+"15-23": {
+"mun_principal": "Lerma",
+"n_municipios": 8,
+"municipios": "Lerma (39 %); Tianguistenco (20 %); Ocoyoacac (18 %); Capulhuac (9 %); Xalatlaco (7 %); Atizapán (3 %); Almoloya del Río (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Lerma Tianguistenco Ocoyoacac Capulhuac Xalatlaco Atizapán Almoloya del Río Texcalyacac"
+},
+"15-24": {
+"mun_principal": "Naucalpan de Juárez",
+"n_municipios": 1,
+"municipios": "Naucalpan de Juárez (100 %)",
+"busqueda": "Naucalpan de Juárez"
+},
+"15-25": {
+"mun_principal": "Chimalhuacán",
+"n_municipios": 1,
+"municipios": "Chimalhuacán (100 %)",
+"busqueda": "Chimalhuacán"
+},
+"15-26": {
+"mun_principal": "Toluca",
+"n_municipios": 1,
+"municipios": "Toluca (100 %)",
+"busqueda": "Toluca"
+},
+"15-27": {
+"mun_principal": "Metepec",
+"n_municipios": 6,
+"municipios": "Metepec (55 %); San Mateo Atenco (21 %); Calimaya (13 %); San Antonio la Isla (6 %); Mexicaltzingo (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Metepec San Mateo Atenco Calimaya San Antonio la Isla Mexicaltzingo Chapultepec"
+},
+"15-28": {
+"mun_principal": "Zumpango",
+"n_municipios": 4,
+"municipios": "Zumpango (67 %); Hueypoxtla (13 %); Tequixquiac (11 %); Apaxco (9 %)",
+"busqueda": "Zumpango Hueypoxtla Tequixquiac Apaxco"
+},
+"15-29": {
+"mun_principal": "Nezahualcóyotl",
+"n_municipios": 1,
+"municipios": "Nezahualcóyotl (100 %)",
+"busqueda": "Nezahualcóyotl"
+},
+"15-30": {
+"mun_principal": "Chicoloapan",
+"n_municipios": 2,
+"municipios": "Chicoloapan (51 %); Chimalhuacán (49 %)",
+"busqueda": "Chicoloapan Chimalhuacán"
+},
+"15-31": {
+"mun_principal": "Nezahualcóyotl",
+"n_municipios": 1,
+"municipios": "Nezahualcóyotl (100 %)",
+"busqueda": "Nezahualcóyotl"
+},
+"15-32": {
+"mun_principal": "Valle de Chalco Solidaridad",
+"n_municipios": 1,
+"municipios": "Valle de Chalco Solidaridad (100 %)",
+"busqueda": "Valle de Chalco Solidaridad"
+},
+"15-33": {
+"mun_principal": "Chalco",
+"n_municipios": 1,
+"municipios": "Chalco (100 %)",
+"busqueda": "Chalco"
+},
+"15-34": {
+"mun_principal": "Toluca",
+"n_municipios": 1,
+"municipios": "Toluca (100 %)",
+"busqueda": "Toluca"
+},
+"15-35": {
+"mun_principal": "Tenancingo",
+"n_municipios": 11,
+"municipios": "Tenancingo (23 %); Tenango del Valle (19 %); Villa Guerrero (14 %); Coatepec Harinas (9 %); Ixtapan de la Sal (9 %); Ocuilan (7 %); Malinalco (6 %); Zumpahuacán (4 %); Tonatico (3 %); Joquicingo (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Tenancingo Tenango del Valle Villa Guerrero Coatepec Harinas Ixtapan de la Sal Ocuilan Malinalco Zumpahuacán Tonatico Joquicingo Rayón"
+},
+"15-36": {
+"mun_principal": "Tejupilco",
+"n_municipios": 16,
+"municipios": "Tejupilco (19 %); Valle de Bravo (18 %); Temascaltepec (8 %); Tlatlaya (8 %); Luvianos (7 %); Amatepec (6 %); Sultepec (6 %); Amanalco (6 %); Texcaltitlán (4 %); Almoloya de Alquisiras (4 %); Zacualpan (3 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Tejupilco Valle de Bravo Temascaltepec Tlatlaya Luvianos Amatepec Sultepec Amanalco Texcaltitlán Almoloya de Alquisiras Zacualpan Santo Tomás Ixtapan del Oro San Simón de Guerrero Otzoloapan Zacazonapan"
+},
+"15-37": {
+"mun_principal": "Huehuetoca",
+"n_municipios": 5,
+"municipios": "Huehuetoca (35 %); Teoloyucan (21 %); Tepotzotlán (20 %); Coyotepec (12 %); Villa del Carbón (11 %)",
+"busqueda": "Huehuetoca Teoloyucan Tepotzotlán Coyotepec Villa del Carbón"
+},
+"15-38": {
+"mun_principal": "Texcoco",
+"n_municipios": 3,
+"municipios": "Texcoco (75 %); Atenco (18 %); Chiconcuac (8 %)",
+"busqueda": "Texcoco Atenco Chiconcuac"
+},
+"15-39": {
+"mun_principal": "La Paz",
+"n_municipios": 2,
+"municipios": "La Paz (75 %); Chimalhuacán (25 %)",
+"busqueda": "La Paz Chimalhuacán"
+},
+"15-40": {
+"mun_principal": "Zinacantepec",
+"n_municipios": 4,
+"municipios": "Zinacantepec (42 %); Almoloya de Juárez (35 %); Temoaya (22 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Zinacantepec Almoloya de Juárez Temoaya Otzolotepec"
+},
+"16-01": {
+"mun_principal": "Lázaro Cárdenas",
+"n_municipios": 10,
+"municipios": "Lázaro Cárdenas (47 %); Múgica (11 %); ARío (9 %); La Huacana (8 %); Parácuaro (7 %); Gabriel Zamora (5 %); Arteaga (5 %); Churumuco (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Lázaro Cárdenas Múgica ARío La Huacana Parácuaro Gabriel Zamora Arteaga Churumuco Nuevo Urecho Tumbiscatío"
+},
+"16-02": {
+"mun_principal": "Apatzingán",
+"n_municipios": 11,
+"municipios": "Apatzingán (30 %); Los Reyes (19 %); Buenavista (10 %); Tancítaro (8 %); Peribán (7 %); Aquila (6 %); Tepalcatepec (5 %); Coalcomán de Vázquez Pallares (5 %); Coahuayana (4 %); Aguililla (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Apatzingán Los Reyes Buenavista Tancítaro Peribán Aquila Tepalcatepec Coalcomán de Vázquez Pallares Coahuayana Aguililla Chinicuila"
+},
+"16-03": {
+"mun_principal": "Zitácuaro",
+"n_municipios": 14,
+"municipios": "Zitácuaro (35 %); Maravatío (19 %); Contepec (7 %); Tuxpan (6 %); Tlalpujahua (6 %); Ocampo (5 %); Senguio (4 %); Jungapeo (4 %); Tuzantla (3 %); Epitacio Huerta (3 %); Juárez (3 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Zitácuaro Maravatío Contepec Tuxpan Tlalpujahua Ocampo Senguio Jungapeo Tuzantla Epitacio Huerta Juárez Angangueo Susupuato Aporo"
+},
+"16-04": {
+"mun_principal": "Sahuayo",
+"n_municipios": 15,
+"municipios": "Sahuayo (18 %); Jacona (17 %); Jiquilpan (11 %); Tangamandapio (8 %); Venustiano Carranza (6 %); Cotija (6 %); Villamar (5 %); Pajacuarán (5 %); Vista Hermosa (5 %); Tingüindín (4 %); Marcos Castellanos (3 %); Chavinda (3 %); Tocumbo (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Sahuayo Jacona Jiquilpan Tangamandapio Venustiano Carranza Cotija Villamar Pajacuarán Vista Hermosa Tingüindín Marcos Castellanos Chavinda Tocumbo Cojumatlán de Régules Briseñas"
+},
+"16-05": {
+"mun_principal": "Zamora",
+"n_municipios": 12,
+"municipios": "Zamora (44 %); La Piedad (23 %); Yurécuaro (7 %); Penjamillo (4 %); Purépero (4 %); Tanhuato (3 %); Ixtlán (3 %); Ecuandureo (3 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Zamora La Piedad Yurécuaro Penjamillo Purépero Tanhuato Ixtlán Ecuandureo Numarán Tlazazalca Churintzio Zináparo"
+},
+"16-06": {
+"mun_principal": "Hidalgo",
+"n_municipios": 13,
+"municipios": "Hidalgo (27 %); Tarímbaro (22 %); Zinapécuaro (12 %); Cuitzeo (7 %); Charo (5 %); Álvaro Obregón (5 %); Indaparapeo (4 %); Irimbo (4 %); Santa Ana Maya (3 %); Queréndaro (3 %); Huandacareo (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Hidalgo Tarímbaro Zinapécuaro Cuitzeo Charo Álvaro Obregón Indaparapeo Irimbo Santa Ana Maya Queréndaro Huandacareo Tzitzio Copándaro"
+},
+"16-07": {
+"mun_principal": "Zacapu",
+"n_municipios": 17,
+"municipios": "Zacapu (16 %); Puruándiro (16 %); Chilchota (8 %); Tangancícuaro (8 %); Paracho (7 %); Nahuatzen (6 %); Quiroga (6 %); José Sixto Verduzco (5 %); Coeneo (5 %); Panindícuaro (4 %); Cherán (4 %); Jiménez (3 %); Angamacutiro (3 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Zacapu Puruándiro Chilchota Tangancícuaro Paracho Nahuatzen Quiroga José Sixto Verduzco Coeneo Panindícuaro Cherán Jiménez Angamacutiro Charapan Morelos Huaniqueo Chucándiro"
+},
+"16-08": {
+"mun_principal": "Morelia",
+"n_municipios": 1,
+"municipios": "Morelia (100 %)",
+"busqueda": "Morelia"
+},
+"16-09": {
+"mun_principal": "Uruapan",
+"n_municipios": 5,
+"municipios": "Uruapan (83 %); Nuevo Parangaricutiro (5 %); Ziracuaretiro (4 %); Taretan (4 %); Tingambato (4 %)",
+"busqueda": "Uruapan Nuevo Parangaricutiro Ziracuaretiro Taretan Tingambato"
+},
+"16-10": {
+"mun_principal": "Morelia",
+"n_municipios": 1,
+"municipios": "Morelia (100 %)",
+"busqueda": "Morelia"
+},
+"16-11": {
+"mun_principal": "Pátzcuaro",
+"n_municipios": 15,
+"municipios": "Pátzcuaro (22 %); Tacámbaro (18 %); Salvador Escalante (11 %); Huetamo (10 %); Turicato (8 %); San Lucas (4 %); Madero (4 %); Erongarícuaro (4 %); Tzintzuntzan (4 %); Tiquicheo de Nicolás Romero (3 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Pátzcuaro Tacámbaro Salvador Escalante Huetamo Turicato San Lucas Madero Erongarícuaro Tzintzuntzan Tiquicheo de Nicolás Romero Acuitzio Carácuaro Nocupétaro Huiramba Lagunillas"
+},
+"17-01": {
+"mun_principal": "Cuernavaca",
+"n_municipios": 1,
+"municipios": "Cuernavaca (100 %)",
+"busqueda": "Cuernavaca"
+},
+"17-02": {
+"mun_principal": "Jiutepec",
+"n_municipios": 4,
+"municipios": "Jiutepec (50 %); Temixco (27 %); Emiliano Zapata (21 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Jiutepec Temixco Emiliano Zapata Cuernavaca"
+},
+"17-03": {
+"mun_principal": "Cuautla",
+"n_municipios": 7,
+"municipios": "Cuautla (49 %); Ayala (22 %); Axochiapan (9 %); Tepalcingo (7 %); Jantetelco (5 %); Jonacatepec (4 %); Temoac (4 %)",
+"busqueda": "Cuautla Ayala Axochiapan Tepalcingo Jantetelco Jonacatepec Temoac"
+},
+"17-04": {
+"mun_principal": "Xochitepec",
+"n_municipios": 13,
+"municipios": "Xochitepec (18 %); Jojutla (16 %); Tlaltizapán de Zapata (13 %); Puente de Ixtla (10 %); Zacatepec (10 %); Tlaquiltenango (8 %); Xoxocotla (7 %); Amacuzac (4 %); Miacatlán (4 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Xochitepec Jojutla Tlaltizapán de Zapata Puente de Ixtla Zacatepec Tlaquiltenango Xoxocotla Amacuzac Miacatlán Mazatepec Coatetelco Coatlán del Río Tetecala"
+},
+"17-05": {
+"mun_principal": "Yautepec",
+"n_municipios": 12,
+"municipios": "Yautepec (32 %); Yecapixtla (15 %); Tepoztlán (13 %); Atlatlahucan (8 %); Huitzilac (6 %); Tlayacapan (6 %); Ocuituco (5 %); Tetela del Volcán (4 %); Totolapan (3 %); Zacualpan de Amilpas (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Yautepec Yecapixtla Tepoztlán Atlatlahucan Huitzilac Tlayacapan Ocuituco Tetela del Volcán Totolapan Zacualpan de Amilpas Hueyapan Tlalnepantla"
+},
+"18-01": {
+"mun_principal": "Santiago Ixcuintla",
+"n_municipios": 9,
+"municipios": "Santiago Ixcuintla (27 %); San Blas (12 %); Del Nayar (11 %); Tecuala (11 %); Acaponeta (10 %); Rosamorada (10 %); Tuxpan (9 %); Ruíz (7 %); Huajicori (3 %)",
+"busqueda": "Santiago Ixcuintla San Blas Del Nayar Tecuala Acaponeta Rosamorada Tuxpan Ruíz Huajicori"
+},
+"18-02": {
+"mun_principal": "Tepic",
+"n_municipios": 1,
+"municipios": "Tepic (100 %)",
+"busqueda": "Tepic"
+},
+"18-03": {
+"mun_principal": "Bahía de Banderas",
+"n_municipios": 10,
+"municipios": "Bahía de Banderas (40 %); Compostela (18 %); Xalisco (14 %); Ixtlán del Río (7 %); Santa María del Oro (6 %); Jala (4 %); Ahuacatlán (4 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Bahía de Banderas Compostela Xalisco Ixtlán del Río Santa María del Oro Jala Ahuacatlán Amatlán de Cañas La Yesca San Pedro Lagunillas"
+},
+"19-01": {
+"mun_principal": "Santa Catarina",
+"n_municipios": 2,
+"municipios": "Santa Catarina (68 %); San Pedro Garza García (32 %)",
+"busqueda": "Santa Catarina San Pedro Garza García"
+},
+"19-02": {
+"mun_principal": "Apodaca",
+"n_municipios": 1,
+"municipios": "Apodaca (100 %)",
+"busqueda": "Apodaca"
+},
+"19-03": {
+"mun_principal": "Gral. Escobedo",
+"n_municipios": 1,
+"municipios": "Gral. Escobedo (100 %)",
+"busqueda": "Gral. Escobedo"
+},
+"19-04": {
+"mun_principal": "San Nicolás de los Garza",
+"n_municipios": 2,
+"municipios": "San Nicolás de los Garza (98 %); y 1 municipio más con menos de 3 %",
+"busqueda": "San Nicolás de los Garza Gral. Escobedo"
+},
+"19-05": {
+"mun_principal": "Monterrey",
+"n_municipios": 1,
+"municipios": "Monterrey (100 %)",
+"busqueda": "Monterrey"
+},
+"19-06": {
+"mun_principal": "Monterrey",
+"n_municipios": 1,
+"municipios": "Monterrey (100 %)",
+"busqueda": "Monterrey"
+},
+"19-07": {
+"mun_principal": "García",
+"n_municipios": 1,
+"municipios": "García (100 %)",
+"busqueda": "García"
+},
+"19-08": {
+"mun_principal": "Guadalupe",
+"n_municipios": 2,
+"municipios": "Guadalupe (54 %); Apodaca (46 %)",
+"busqueda": "Guadalupe Apodaca"
+},
+"19-09": {
+"mun_principal": "Linares",
+"n_municipios": 13,
+"municipios": "Linares (22 %); Montemorelos (18 %); Santiago (14 %); Allende (10 %); Galeana (10 %); Dr. Arroyo (10 %); Gral. Terán (4 %); Aramberri (4 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Linares Montemorelos Santiago Allende Galeana Dr. Arroyo Gral. Terán Aramberri Mier y Noriega Hualahuises Gral. Zaragoza Iturbide Rayones"
+},
+"19-10": {
+"mun_principal": "Monterrey",
+"n_municipios": 1,
+"municipios": "Monterrey (100 %)",
+"busqueda": "Monterrey"
+},
+"19-11": {
+"mun_principal": "Guadalupe",
+"n_municipios": 1,
+"municipios": "Guadalupe (100 %)",
+"busqueda": "Guadalupe"
+},
+"19-12": {
+"mun_principal": "Juárez",
+"n_municipios": 1,
+"municipios": "Juárez (100 %)",
+"busqueda": "Juárez"
+},
+"19-13": {
+"mun_principal": "Salinas Victoria",
+"n_municipios": 14,
+"municipios": "Salinas Victoria (25 %); Ciénega de Flores (20 %); Carmen (20 %); Sabinas Hidalgo (12 %); Anáhuac (6 %); Hidalgo (5 %); y 8 municipios más con menos de 3 %",
+"busqueda": "Salinas Victoria Ciénega de Flores Carmen Sabinas Hidalgo Anáhuac Hidalgo Lampazos de Naranjo Mina Agualeguas Villaldama Bustamante Abasolo Vallecillo Parás"
+},
+"19-14": {
+"mun_principal": "Cadereyta Jiménez",
+"n_municipios": 15,
+"municipios": "Cadereyta Jiménez (32 %); Pesquería (31 %); Gral. Zuazua (20 %); China (4 %); y 11 municipios más con menos de 3 %",
+"busqueda": "Cadereyta Jiménez Pesquería Gral. Zuazua China Cerralvo Gral. Bravo Los Ramones Marín Dr. González Los Herreras Dr. Coss Los Aldamas Gral. Treviño Melchor Ocampo Higueras"
+},
+"20-01": {
+"mun_principal": "San Juan Bautista Tuxtepec",
+"n_municipios": 17,
+"municipios": "San Juan Bautista Tuxtepec (37 %); Acatlán de Pérez Figueroa (10 %); Loma Bonita (9 %); San Miguel Soyaltepec (9 %); San Juan Bautista Valle Nacional (6 %); San Lucas Ojitlán (5 %); San Juan Lalana (4 %); Santiago Jocotepec (3 %); Cosolapa (3 %); y 8 municipios más con menos de 3 %",
+"busqueda": "San Juan Bautista Tuxtepec Acatlán de Pérez Figueroa Loma Bonita San Miguel Soyaltepec San Juan Bautista Valle Nacional San Lucas Ojitlán San Juan Lalana Santiago Jocotepec Cosolapa San José Chiltepec San Pedro Ixcatlán Santa María Jacatepec Santiago Yaveo Ayotzintepec Santiago Choápam San José Independencia San Juan Comaltepec"
+},
+"20-02": {
+"mun_principal": "Huautla de Jiménez",
+"n_municipios": 74,
+"municipios": "Huautla de Jiménez (8 %); San Felipe Jalapa de Díaz (7 %); Santa María Chilchotla (6 %); Asunción Nochixtlán (5 %); San Lorenzo Cacaotepec (4 %); San José Tenango (4 %); San Francisco Telixtlahuaca (4 %); San Felipe Usila (3 %); Villa de Etla (3 %); Mazatlán Villa de Flores (3 %); y 64 municipios más con menos de 3 %",
+"busqueda": "Huautla de Jiménez San Felipe Jalapa de Díaz Santa María Chilchotla Asunción Nochixtlán San Lorenzo Cacaotepec San José Tenango San Francisco Telixtlahuaca San Felipe Usila Villa de Etla Mazatlán Villa de Flores Santiago Suchilquitongo San Juan Bautista Cuicatlán Teotitlán de Flores Magón Magdalena Apasco San Pablo Huitzo Soledad Etla San Juan Bautista Guelache San Lucas Zoquiápam Huautepec Nazareno Etla San Agustín Etla San Pedro Sochiápam San Andrés Zautla San Pedro Teutila Reyes Etla Santa María Teopoxco San Bartolomé Ayautla San Andrés Teotilálpam San Martín Toxpalan Eloxochitlán de Flores Magón San Mateo Yoloxochitlán Cuyamecalco Villa de Zaragoza Guadalupe Etla Concepción Papalo Santa María la Asunción San Juan del Estado San Jerónimo Sosola Santiago Texcalcingo Santo Tomás Mazaltepec San Juan Tepeuxila San Juan de los Cués Santos Reyes Pápalo San Juan Bautista Tlacoatzintepec San Miguel Chicahua San Juan Quiotepec Chiquihuitlán de Benito Juárez Santiago Tenango Santa María Pápalo San Juan Coatzóspam Santa María Tecomavaca San Francisco Chapulapa Santiago Nacaltepec San Juan Bautista Atatlahuca Santa María Apazco Valerio Trujano Santa María Tlalixtac San Jerónimo Tecóatl Santa Cruz Acatepec San Juan Bautista Jayacatlán San Antonio Nanahuatípam San Miguel Huautla Santiago Apoala Santa María Texcatitlán San Pedro Jocotipac San Francisco Huehuetlán San Pedro Coxcaltepec Cántaros San Pedro Ocopetatillo San Miguel Santa Flor San Lorenzo Cuaunecuiltitla Santa Ana Cuauhtémoc Santiago Huauclilla Santa María Ixcatlán San Pedro Jaltepetongo Santa Ana Ateixtlahuaca"
+},
+"20-03": {
+"mun_principal": "Santa Cruz Xoxocotlán",
+"n_municipios": 98,
+"municipios": "Santa Cruz Xoxocotlán (22 %); Heroica Ciudad de Huajuapan de León (18 %); Villa de Zaachila (10 %); Cuilápam de Guerrero (6 %); San Antonio de la Cal (5 %); y 93 municipios más con menos de 3 %",
+"busqueda": "Santa Cruz Xoxocotlán Heroica Ciudad de Huajuapan de León Villa de Zaachila Cuilápam de Guerrero San Antonio de la Cal San Pedro Ixtlahuaca San Bartolo Coyotepec Villa de Tamazulápam del Progreso San Felipe Tejalápam Santa María Peñoles San Miguel Amatitlán Santiago Tlazoyaltepec Santiago Huajolotitlán Santiago Chazumba San Pedro y San Pablo Teposcolula San Simón Zahuatlán Trinidad Zaachila Ciénega de Zimatlán Santo Domingo Nuxaá San Miguel Peras Magdalena Jaltepec San Juan Tamazola Santiago Tilantongo San Antonio Huitepec San Juan Bautista Coixtlahuaca San Raymundo Jalpan Santiago Ayuquililla Villa Tejúpam de la Unión San Antonino el Alto Santa Inés del Monte San Andrés Dinicuiti Santiago Yolomécatl Santa Catarina Quiané San Mateo Sindihui Santiago Cacaloxtepec Villa De Chilapa de Díaz San Pedro y San Pablo Tequixtepec San Andrés Nuxiño Tepelmeme Villa de Morelos Santa María Camotlán Zapotitlán Palmas San Andrés Ixtlahuaca Magdalena Yodocono de Porfirio Díaz San Jerónimo Silacayoapilla Santo Domingo Yanhuitlán San José Ayuquila Santa Inés de Zaragoza San Marcos Arteaga San Pablo Cuatro Venados San Juan Teposcolula San Pedro Teozacoalco San Mateo Etlatongo San Miguel Piedras Yutanduchi de Guerrero Asunción Cuyotepeji San Juan Diuxi Teotongo Fresnillo de Trujano San Francisco Jaltepetongo San Miguel Tequixtepec San Pedro Tidaá Santa María Chachoápam San Juan Sayultepec Cosoltepec San Andrés Sinaxtla San Francisco Chindúa Concepción Buenavista San Juan Yucuita San Pedro Nopala San Bartolo Soyaltepec Santa María Nativitas Santiago Tillo Asunción Nochixtlán San Andrés Lagunas San Juan Bautista Suchitepec Santa María Nduayaco San Vicente Nuñú Santa Catarina Zapoquila Tlacotepec Plumas Santiago Ihuitlán Plumas Magdalena Zahuatlán Santiago Miltepec Santo Domingo Yodohino San Pedro Topiltepec San Francisco Nuxaño San Miguel Tulancingo San Cristóbal Suchixtlahuaca San Miguel Tecomatlán San Francisco Teopan La Trinidad Vista Hermosa San Antonio Acutla Santo Domingo Tonaltepec San Pedro Yucunama San Mateo Tlapiltepec Santiago Nejapilla Santo Domingo Tlatayápam Santiago Tepetlapa Santa Magdalena Jicotlán"
+},
+"20-04": {
+"mun_principal": "Tlacolula de Matamoros",
+"n_municipios": 119,
+"municipios": "Tlacolula de Matamoros (7 %); San Juan Guichicovi (7 %); Ocotlán de Morelos (5 %); San Juan Cotzocón (5 %); San Juan Mazatlán (4 %); y 114 municipios más con menos de 3 %",
+"busqueda": "Tlacolula de Matamoros San Juan Guichicovi Ocotlán de Morelos San Juan Cotzocón San Juan Mazatlán San Pablo Villa de Mitla Tlalixtac de Cabrera San Dionisio Ocotepec San Agustín De Las Juntas Santiago Matatlán Santa María del Tule Santa María Tlahuitoltepec Ixtlán de Juárez Tamazulápam del Espíritu Santo San Miguel Quetzaltepec Teotitlán del Valle Villa Díaz Ordaz San Antonino Castillo Velasco San Jerónimo Tlacochahuaya San Andrés Huayápam Santo Domingo Tepuxtepec San Pedro y San Pablo Ayutla Totontepec Villa de Morelos Ánimas Trujano Santiago Zacatepec Santiago Apóstol San Francisco Lachigoló Magdalena Teitipac Santa Ana Zegache Santa Lucia Ocotlán San Ildefonso Villa Alta Santo Tomás Jalieza San Juan Juquila Mixes Santa María Tepantlali Santa María Coyotepec Santa María Zoquitlán Santo Domingo Tomaltepec San Juan Guelavía Asunción Ocotlán Santiago Atitlán San Miguel Tilquiápam Santiago Camotlán San Baltazar Chichicápam San Bartolomé Quialana San Lorenzo Albarradas Yaxe Santa Catarina Ixtepeji Santa María Alotepec San Lucas Camotlán San Juan Petlapa San Juan Teitipac Mixistlán de la Reforma Asunción Cacalotepec San Sebastián Teitipac Santa Ana del Valle San Miguel Aloapam Santa Cruz Papalutla Villa Talea De Castro San Sebastián Abasolo San Pedro Yólox Santa Catarina Minas San Lucas Quiaviní San Martín Tilcajete San Pedro Mártir San Juan Juquila Vijanos San Jerónimo Taviche Villa Hidalgo Yalalag San Pedro Ocotepec Santiago Xiacuí San Andrés Solaga San Pedro Apóstol San Juan Chilateca Tanetze de Zaragoza Nuevo Zoquiápam Capulálpam de Méndez San Juan del Río San Juan Atepec Santiago Ixcuintepec San Juan Yaeé San Cristóbal LachiRíoag San Dionisio Ocotlán Matías Romero Avendaño Santa Catarina Lachatao Rojas de Cuauhtémoc Santiago Comaltepec Santiago Laxopa San Juan Tabaá San Pedro Cajonos Santo Domingo Xagacía Teococuilco de Marcos Pérez San Pablo Yaganiza San Melchor Betaza Santa Inés Yatzeche Santa María Temaxcalapa San Miguel Amatlán San Pablo Macuiltianguis Abejones San Pedro Yaneri Santo Domingo Roayaga Santa María Guelacé Santo Domingo Albarradas Santa Ana Yareni San Baltazar Yatzachi el Bajo San Miguel Yotao Santa María Jaltianguis San Mateo Cajonos Guelatao de Juárez Natividad San Francisco Cajonos Santiago Zoochila San Juan Evangelista Analco San Juan Yatzona Santa María Yavesía Santiago Lalopa San Andrés Yaá San Bartolomé Zoogocho San Juan Chicomezúchil Santa María Yalina San Miguel del Río"
+},
+"20-05": {
+"mun_principal": "Salina Cruz",
+"n_municipios": 32,
+"municipios": "Salina Cruz (24 %); Santo Domingo Tehuantepec (18 %); Santa María Huatulco (14 %); Heroica Villa de San Blas Atempa (5 %); San Mateo del Mar (4 %); Santa María Jalapa del Marqués (3 %); y 26 municipios más con menos de 3 %",
+"busqueda": "Salina Cruz Santo Domingo Tehuantepec Santa María Huatulco Heroica Villa de San Blas Atempa San Mateo del Mar Santa María Jalapa del Marqués San Pedro Quiatoni San Carlos Yautepec San Pedro Huamelula Santa María Xadani San Miguel del Puerto Nejapa de Madero Magdalena Tequisistlán Guevea De Humboldt Santa María Mixtequilla San Pedro Comitancillo Santiago Lachiguiri Santiago Astata Santiago Laollaga San Pedro Huilotepec San Pedro Totolápam Santa María Ecatepec Santa María Guienagati Santiago Xanica Santa María Quiegolani Magdalena Tlacotepec Santa María Totolapilla Santa Ana Tavela Asunción Tlacolulita San Miguel Tenango San Juan Lajarcia San Bartolo Yautepec"
+},
+"20-06": {
+"mun_principal": "Heroica Ciudad de Tlaxiaco",
+"n_municipios": 85,
+"municipios": "Heroica Ciudad de Tlaxiaco (12 %); Putla Villa de Guerrero (9 %); Santiago Juxtlahuaca (9 %); Santa María Zacatepec (4 %); Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca (3 %); y 80 municipios más con menos de 3 %",
+"busqueda": "Heroica Ciudad de Tlaxiaco Putla Villa de Guerrero Santiago Juxtlahuaca Santa María Zacatepec Heroica Villa Tezoatlán de Segura y Luna, Cuna de la Independencia de Oaxaca Santa Cruz Itundujia San Martín Peras Santiago Amoltepec Chalcatongo De Hidalgo San Sebastián Tecomaxtlahuaca Santo Domingo Tonalá San Juan Mixtepec Coicoyán de las Flores Santiago Yosondúa San Antonino Monte Verde Silacayoápam San Lorenzo Texmelúcan San Juan Ñumí Santa María Yucuhiti Santa Lucia Monteverde Santo Domingo Teojomulco Mesones Hidalgo Constancia del Rosario Santiago Tamazola Santiago Textitlán Mariscala de Juárez San Miguel El Grande San Esteban Atatlahuca Santo Tomás Ocotepec Magdalena Peñasco San Miguel Tlacotepec San Francisco Cahuacuá San Jorge Nuchita Santa Cruz Nundaco Zapotitlán Lagunas San Mateo Yucutindoo Santa Cruz Tacache de Mina San Andrés Cabecera Nueva San Martín Itunyoso San Miguel Ahuehuetitlán San Francisco Tlapancingo San Agustín Atenango San Mateo Peñasco Santa María Zaniza San Pablo Tijaltepec Santiago Nuyoó San Sebastián Nicananduta Santa María Yosoyúa San Martín Zacatepec San Antonio Sinicahua Guadalupe de Ramírez San Pedro Mártir Yucuxaco Ixpantepec Nieves San Juan Bautista Tlachichilco Santa Catarina Yosonotú Santos Reyes Yucuná San Cristóbal Amoltepec Calihualá Santa Cruz Tacahua San Nicolás Hidalgo Santiago Yucuyachi Santiago Nundiche San Martín Huamelúlpam San Mateo Nejápam Santa Catarina Ticuá San Lorenzo Victoria Santos Reyes Tepejillo San Agustín Tlacotepec Santa Catarina Tayata Santiago del Río San Pedro Molinos Santo Domingo Ixcatlán San Miguel Achiutla Santa Cruz Tayata San Juan Ihualtepec San Juan Teita Santa María del Rosario San Juan Cieneguilla San Juan Achiutla Santa María Yolotepec Santa Cruz de Bravo San Marcos Arteaga San Andrés Tepetlapa San Bartolomé Yucuañe Santa María Tataltepec"
+},
+"20-07": {
+"mun_principal": "Heroica Ciudad de Juchitán de Zaragoza",
+"n_municipios": 22,
+"municipios": "Heroica Ciudad de Juchitán de Zaragoza (30 %); Matías Romero Avendaño (11 %); Ciudad Ixtepec (9 %); Asunción Ixtaltepec (5 %); Santa María Petapa (5 %); Unión Hidalgo (4 %); San Pedro Tapanatepec (4 %); El BarRío de la Soledad (4 %); Santo Domingo Zanatepec (4 %); Chahuites (3 %); y 12 municipios más con menos de 3 %",
+"busqueda": "Heroica Ciudad de Juchitán de Zaragoza Matías Romero Avendaño Ciudad Ixtepec Asunción Ixtaltepec Santa María Petapa Unión Hidalgo San Pedro Tapanatepec El BarRío de la Soledad Santo Domingo Zanatepec Chahuites San Francisco Ixhuatán El Espinal Santo Domingo Petapa Santo Domingo Ingenio San Francisco del Mar Santa María Chimalapa San Miguel Chimalapa Santiago Niltepec San Dionisio del Mar Reforma de Pineda Santo Domingo Chihuitán San Juan Guichicovi"
+},
+"20-08": {
+"mun_principal": "Oaxaca de Juárez",
+"n_municipios": 8,
+"municipios": "Oaxaca de Juárez (66 %); Santa Lucia del Camino (12 %); Santa María Atzompa (8 %); San Sebastián Tutla (4 %); San Jacinto Amilpas (4 %); San Pablo Etla (3 %); Santa Cruz Amilpas (3 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Oaxaca de Juárez Santa Lucia del Camino Santa María Atzompa San Sebastián Tutla San Jacinto Amilpas San Pablo Etla Santa Cruz Amilpas San Agustín Yatareni"
+},
+"20-09": {
+"mun_principal": "Santiago Pinotepa Nacional",
+"n_municipios": 42,
+"municipios": "Santiago Pinotepa Nacional (14 %); San Pedro Mixtepec (13 %); Villa de Tututepec (12 %); Santiago Jamiltepec (5 %); Santos Reyes Nopala (4 %); Santa Catarina Juquila (4 %); Santa Cruz Zenzontepec (4 %); Santiago Ixtayutla (3 %); y 34 municipios más con menos de 3 %",
+"busqueda": "Santiago Pinotepa Nacional San Pedro Mixtepec Villa de Tututepec Santiago Jamiltepec Santos Reyes Nopala Santa Catarina Juquila Santa Cruz Zenzontepec Santiago Ixtayutla Santa María Huazolotitlán San Pedro Jicayán San Juan Colorado San Juan Cacahuatepec San Pedro Amuzgos Pinotepa de Don Luis San Andrés Huaxpaltepec San Miguel Panixtlahuaca San Lorenzo Tataltepec de Valdés Santa María Ipalapa San Gabriel Mixtepec Santiago Tetepec San Juan Lachao San Pedro Atoyac Santa Catarina Mechoacán San Sebastián Ixcapa San Antonio Tepetlapa San Agustín Chayuco San Juan Quiahije Santiago Yaitepec San Miguel Tlacamama Santiago Llano Grande La Reforma Santo Domingo Armenta Santiago Tapextla San Juan Bautista Lo de Soto Santa María Temaxcaltepec San Jacinto Tlacotepec San Pedro Juchatengo Santiago Minas Mártires de Tacubaya Santa María Cortijo San José Estancia Grande"
+},
+"20-10": {
+"mun_principal": "Miahuatlán de Porfirio Díaz",
+"n_municipios": 77,
+"municipios": "Miahuatlán de Porfirio Díaz (11 %); San Pedro Pochutla (11 %); Santa María Colotepec (6 %); Santa María Tonameca (6 %); Heroica Ciudad de Ejutla de Crespo (5 %); San Agustín Loxicha (5 %); Zimatlán de Álvarez (5 %); y 70 municipios más con menos de 3 %",
+"busqueda": "Miahuatlán de Porfirio Díaz San Pedro Pochutla Santa María Colotepec Santa María Tonameca Heroica Ciudad de Ejutla de Crespo San Agustín Loxicha Zimatlán de Álvarez Villa Sola de Vega Santo Domingo de Morelos San Pablo Huixtepec Candelaria Loxicha San José del Progreso Coatecas Altas Ayoquezco De Aldama San Cristóbal Amatlán Santa Cruz Xitla San Jerónimo Coatlán San Andrés Paxtlán San Pablo Coatlán San José Lachiguiri San Sebastián Río Hondo San Luis Amatlán San Vicente Coatlán La Compañía San Pedro El Alto Santa Cruz Mixtepec Santa María Ozolotepec San Mateo Río Hondo Santa Gertrudis Pluma Hidalgo San Juan Lachigalla Santa Catarina Loxicha Monjas San Miguel Coatlán Santa Lucia Miahuatlán San Simón Almolongas San Miguel Suchixtepec San Baltazar Loxicha San Vicente Lachixío San Juan Ozolotepec San Sebastián Coatlán La Pe San Bernardo Mixtepec San Miguel Mixtepec San Francisco Logueche Santo Tomás Tamazulapan San Ildefonso Amatlán Santa Ana Santa Ana Tlapacoyan San José del Peñasco San Bartolomé Loxicha San Mateo Piñas San Francisco Ozolotepec San Francisco Sola San Agustín Amatengo Santa María Lachixío Santa María Sola Santa Catarina Cuixtla Yogana San Marcial Ozolotepec San Pedro Taviche San Miguel Ejutla San Martín Lachilá San Nicolás Magdalena Ocotlán Magdalena Mixtepec Santo Domingo Ozolotepec San Martín de los Cansecos San Pedro Mixtepec San Ildefonso Sola Taniche Santa Catalina Quierí San Andrés Zabache San Pedro Mártir Quiechapa Sitio de Xitlapehua San Juan Mixtepec Santa Catarina Quioquitani"
+},
+"21-01": {
+"mun_principal": "Huauchinango",
+"n_municipios": 17,
+"municipios": "Huauchinango (26 %); Xicotepec (20 %); Venustiano Carranza (7 %); Tlaola (5 %); Pahuatlán (5 %); Pantepec (5 %); Francisco Z. Mena (4 %); Tlacuilotepec (4 %); Chiconcuautla (4 %); Zihuateutla (3 %); Jopala (3 %); Jalpan (3 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Huauchinango Xicotepec Venustiano Carranza Tlaola Pahuatlán Pantepec Francisco Z. Mena Tlacuilotepec Chiconcuautla Zihuateutla Jopala Jalpan Naupan Juan Galindo Honey Tlapacoya Tlaxco"
+},
+"21-02": {
+"mun_principal": "Zacatlán",
+"n_municipios": 27,
+"municipios": "Zacatlán (22 %); Chignahuapan (17 %); Tetela de Ocampo (7 %); Ixtacamaxtitlán (6 %); Zautla (5 %); Huehuetla (4 %); Ahuacatlán (4 %); Huitzilan de Serdán (4 %); Xochitlán de Vicente Suárez (3 %); y 18 municipios más con menos de 3 %",
+"busqueda": "Zacatlán Chignahuapan Tetela de Ocampo Ixtacamaxtitlán Zautla Huehuetla Ahuacatlán Huitzilan de Serdán Xochitlán de Vicente Suárez Olintla Ahuazotepec Tepetzintla Cuautempan Aquixtla Ixtepec Hermenegildo Galeana Hueytlalpan Zapotitlán de Méndez Amixtlán Zongozotla Tepango de Rodríguez San Felipe Tepatlán Caxhuacan Xochiapulco Camocuautla Atlequizayan Coatepec"
+},
+"21-03": {
+"mun_principal": "Teziutlán",
+"n_municipios": 17,
+"municipios": "Teziutlán (26 %); Zacapoaxtla (14 %); Tlatlauquitepec (14 %); Cuetzalan del Progreso (12 %); Atempan (7 %); Hueytamalco (7 %); Zaragoza (4 %); Hueyapan (3 %); y 9 municipios más con menos de 3 %",
+"busqueda": "Teziutlán Zacapoaxtla Tlatlauquitepec Cuetzalan del Progreso Atempan Hueytamalco Zaragoza Hueyapan Acateno Ayotoxco de Guerrero Yaonáhuac Tenampulco Tuzamapan de Galeana Teteles de Avila Castillo Jonotla Nauzontla Zoquiapan"
+},
+"21-04": {
+"mun_principal": "Xiutetelco",
+"n_municipios": 20,
+"municipios": "Xiutetelco (10 %); Libres (9 %); Chignautla (8 %); Tlachichuca (8 %); San Salvador El Seco (7 %); Nopalucan (7 %); Chichiquila (6 %); Rafael Lara Grajales (5 %); Quimixtlán (5 %); Tepeyahualco (5 %); Oriental (5 %); Chilchotla (5 %); Guadalupe Victoria (4 %); Cuyoaco (4 %); Soltepec (3 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Xiutetelco Libres Chignautla Tlachichuca San Salvador El Seco Nopalucan Chichiquila Rafael Lara Grajales Quimixtlán Tepeyahualco Oriental Chilchotla Guadalupe Victoria Cuyoaco Soltepec San Nicolás Buenos Aires San José Chiapa Lafragua Ocotepec Mazapiltepec de Juárez"
+},
+"21-05": {
+"mun_principal": "San Martín Texmelucan",
+"n_municipios": 11,
+"municipios": "San Martín Texmelucan (38 %); Huejotzingo (21 %); Tlahuapan (10 %); San Salvador El Verde (8 %); San Matias Tlalancaleca (5 %); Chiautzingo (5 %); San Miguel Xoxtla (3 %); y 4 municipios más con menos de 3 %",
+"busqueda": "San Martín Texmelucan Huejotzingo Tlahuapan San Salvador El Verde San Matias Tlalancaleca Chiautzingo San Miguel Xoxtla San Nicolás de los Ranchos San Felipe Teotlalcingo Domingo Arenas Tlaltenango"
+},
+"21-06": {
+"mun_principal": "Puebla",
+"n_municipios": 1,
+"municipios": "Puebla (100 %)",
+"busqueda": "Puebla"
+},
+"21-07": {
+"mun_principal": "Amozoc",
+"n_municipios": 14,
+"municipios": "Amozoc (29 %); Tepeaca (22 %); Acajete (17 %); Los Reyes de Juárez (7 %); Tecali de Herrera (6 %); Tepatlaxco de Hidalgo (5 %); y 8 municipios más con menos de 3 %",
+"busqueda": "Amozoc Tepeaca Acajete Los Reyes de Juárez Tecali de Herrera Tepatlaxco de Hidalgo Cuautinchán Cuapiaxtla De Madero Santo Tomás Hueyotlipan Atoyatempan Tzicatlacoyan Tlanepantla Mixtla Puebla"
+},
+"21-08": {
+"mun_principal": "Tecamachalco",
+"n_municipios": 12,
+"municipios": "Tecamachalco (21 %); Acatzingo (15 %); Quecholac (14 %); Chalchicomula de Sesma (13 %); Palmar de Bravo (12 %); Yehualtepec (7 %); General Felipe Ángeles (6 %); Esperanza (4 %); San Salvador Huixcolotla (4 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Tecamachalco Acatzingo Quecholac Chalchicomula de Sesma Palmar de Bravo Yehualtepec General Felipe Ángeles Esperanza San Salvador Huixcolotla Atzitzintla Aljojuca San Juan Atenco"
+},
+"21-09": {
+"mun_principal": "Puebla",
+"n_municipios": 2,
+"municipios": "Puebla (100 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Puebla Cuautlancingo"
+},
+"21-10": {
+"mun_principal": "San Pedro Cholula",
+"n_municipios": 5,
+"municipios": "San Pedro Cholula (35 %); San Andrés Cholula (34 %); Cuautlancingo (27 %); y 2 municipios más con menos de 3 %",
+"busqueda": "San Pedro Cholula San Andrés Cholula Cuautlancingo San Gregorio Atzompa San Jerónimo Tecuanipan"
+},
+"21-11": {
+"mun_principal": "Puebla",
+"n_municipios": 1,
+"municipios": "Puebla (100 %)",
+"busqueda": "Puebla"
+},
+"21-12": {
+"mun_principal": "Puebla",
+"n_municipios": 1,
+"municipios": "Puebla (100 %)",
+"busqueda": "Puebla"
+},
+"21-13": {
+"mun_principal": "Atlixco",
+"n_municipios": 16,
+"municipios": "Atlixco (39 %); Coronango (16 %); Huaquechula (7 %); Juan C. Bonilla (7 %); Tochimilco (5 %); Calpan (4 %); Nealtican (3 %); Atzitzihuacán (3 %); Tianguismanalco (3 %); y 7 municipios más con menos de 3 %",
+"busqueda": "Atlixco Coronango Huaquechula Juan C. Bonilla Tochimilco Calpan Nealtican Atzitzihuacán Tianguismanalco Santa Isabel Cholula Tilapa Tlapanalá Tepexco Cohuecan Acteopan Tepemaxalco"
+},
+"21-14": {
+"mun_principal": "Izúcar de Matamoros",
+"n_municipios": 47,
+"municipios": "Izúcar de Matamoros (20 %); Ocoyucan (11 %); Acatlán (10 %); Chietla (9 %); Chiautla (6 %); Tehuitzingo (3 %); Jolalpan (3 %); y 40 municipios más con menos de 3 %",
+"busqueda": "Izúcar de Matamoros Ocoyucan Acatlán Chietla Chiautla Tehuitzingo Jolalpan Tulcingo Huehuetlán el Chico Petlalcingo Tepeojuma Guadalupe Huatlatlauca Huehuetlán el Grande Santa Inés Ahuatempan Tecomatlán Chila Piaxtla Epatlán Zacapala Teopantlán San Jerónimo Xayacatlán Ixcamilpa de Guerrero San Pablo Anicano San Pedro Yeloixtlahuaca Cuayuca de Andrade Teotlalco Xochiltepec Chinantla Ahuatlán Coatzingo Ahuehuetitla Xayacatlán de Bravo Albino Zertuche Chigmecatitlán Chila de la Sal Cohetzala Axutla Atzala Xicotlán San Diego la Mesa Tochimiltzingo Totoltepec de Guerrero San Juan Atzompa Santa Catarina Tlaltempan San Martín Totoltepec La Magdalena Tlatlauquitepec San Miguel Ixitlán"
+},
+"21-15": {
+"mun_principal": "Tehuacán",
+"n_municipios": 6,
+"municipios": "Tehuacán (79 %); Santiago Miahuatlán (7 %); Tepanco de López (6 %); Cañada Morelos (5 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Tehuacán Santiago Miahuatlán Tepanco de López Cañada Morelos Chapulco Nicolás Bravo"
+},
+"21-16": {
+"mun_principal": "Ajalpan",
+"n_municipios": 25,
+"municipios": "Ajalpan (17 %); Tlacotepec de Benito Juárez (13 %); Vicente Guerrero (6 %); Tepexi de Rodríguez (5 %); Tochtepec (5 %); Coxcatlán (5 %); Altepexi (5 %); Zoquitlán (5 %); Zinacatepec (4 %); San Gabriel Chilac (4 %); San José Miahuatlán (4 %); Eloxochitlán (3 %); Coyomeapan (3 %); San Sebastián Tlacotepec (3 %); y 11 municipios más con menos de 3 %",
+"busqueda": "Ajalpan Tlacotepec de Benito Juárez Vicente Guerrero Tepexi de Rodríguez Tochtepec Coxcatlán Altepexi Zoquitlán Zinacatepec San Gabriel Chilac San José Miahuatlán Eloxochitlán Coyomeapan San Sebastián Tlacotepec Zapotitlán Ixcaquixtla Xochitlán Todos Santos Molcaxac Huitziltepec Juan N. Méndez San Antonio Cañada Caltepec Atexcal Tepeyahualco de Cuauhtémoc Coyotepec"
+},
+"22-01": {
+"mun_principal": "Tequisquiapan",
+"n_municipios": 11,
+"municipios": "Tequisquiapan (19 %); Cadereyta de Montes (17 %); Colón (16 %); Ezequiel Montes (11 %); Jalpan de Serra (7 %); Tolimán (7 %); Pinal de Amoles (7 %); Landa de Matamoros (5 %); Peñamiller (5 %); Arroyo Seco (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Tequisquiapan Cadereyta de Montes Colón Ezequiel Montes Jalpan de Serra Tolimán Pinal de Amoles Landa de Matamoros Peñamiller Arroyo Seco San Joaquín"
+},
+"22-02": {
+"mun_principal": "San Juan del Río",
+"n_municipios": 2,
+"municipios": "San Juan del Río (82 %); Amealco de Bonfil (18 %)",
+"busqueda": "San Juan del Río Amealco de Bonfil"
+},
+"22-03": {
+"mun_principal": "Querétaro",
+"n_municipios": 1,
+"municipios": "Querétaro (100 %)",
+"busqueda": "Querétaro"
+},
+"22-04": {
+"mun_principal": "Querétaro",
+"n_municipios": 2,
+"municipios": "Querétaro (52 %); Corregidora (48 %)",
+"busqueda": "Querétaro Corregidora"
+},
+"22-05": {
+"mun_principal": "El Marqués",
+"n_municipios": 3,
+"municipios": "El Marqués (66 %); Pedro Escobedo (22 %); Huimilpan (12 %)",
+"busqueda": "El Marqués Pedro Escobedo Huimilpan"
+},
+"22-06": {
+"mun_principal": "Querétaro",
+"n_municipios": 1,
+"municipios": "Querétaro (100 %)",
+"busqueda": "Querétaro"
+},
+"23-01": {
+"mun_principal": "Solidaridad",
+"n_municipios": 4,
+"municipios": "Solidaridad (68 %); Cozumel (19 %); Puerto Morelos (7 %); Lázaro Cárdenas (6 %)",
+"busqueda": "Solidaridad Cozumel Puerto Morelos Lázaro Cárdenas"
+},
+"23-02": {
+"mun_principal": "Othón P. Blanco",
+"n_municipios": 5,
+"municipios": "Othón P. Blanco (51 %); Felipe Carrillo Puerto (17 %); Tulum (13 %); Bacalar (10 %); José María Morelos (8 %)",
+"busqueda": "Othón P. Blanco Felipe Carrillo Puerto Tulum Bacalar José María Morelos"
+},
+"23-03": {
+"mun_principal": "Benito Juárez",
+"n_municipios": 2,
+"municipios": "Benito Juárez (93 %); Isla Mujeres (7 %)",
+"busqueda": "Benito Juárez Isla Mujeres"
+},
+"23-04": {
+"mun_principal": "Benito Juárez",
+"n_municipios": 1,
+"municipios": "Benito Juárez (100 %)",
+"busqueda": "Benito Juárez"
+},
+"24-01": {
+"mun_principal": "Matehuala",
+"n_municipios": 15,
+"municipios": "Matehuala (26 %); Mexquitic De Carmona (16 %); Villa de Ramos (10 %); Salinas (8 %); Charcas (6 %); Cedral (5 %); Moctezuma (5 %); Ahualulco (5 %); Villa de Arriaga (5 %); Venado (4 %); Santo Domingo (3 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Matehuala Mexquitic De Carmona Villa de Ramos Salinas Charcas Cedral Moctezuma Ahualulco Villa de Arriaga Venado Santo Domingo Villa de Guadalupe Catorce Vanegas Villa de la Paz"
+},
+"24-02": {
+"mun_principal": "Soledad de Graciano Sánchez",
+"n_municipios": 4,
+"municipios": "Soledad de Graciano Sánchez (89 %); Zaragoza (7 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Soledad de Graciano Sánchez Zaragoza Cerro de San Pedro Armadillo de los Infante"
+},
+"24-03": {
+"mun_principal": "Rioverde",
+"n_municipios": 13,
+"municipios": "Rioverde (28 %); Villa de Reyes (14 %); Ciudad Fernández (13 %); Santa María del Río (11 %); Guadalcázar (7 %); Cerritos (6 %); Villa Hidalgo (4 %); Villa de Arista (4 %); Villa Juárez (3 %); San Ciro de Acosta (3 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Rioverde Villa de Reyes Ciudad Fernández Santa María del Río Guadalcázar Cerritos Villa Hidalgo Villa de Arista Villa Juárez San Ciro de Acosta Tierra Nueva Lagunillas San Nicolás Tolentino"
+},
+"24-04": {
+"mun_principal": "Ciudad Valles",
+"n_municipios": 12,
+"municipios": "Ciudad Valles (42 %); Ebano (10 %); Tamuín (8 %); Ciudad del Maíz (7 %); Tamasopo (7 %); El Naranjo (5 %); Cárdenas (5 %); Rayón (4 %); San Vicente Tancuayalab (4 %); Tanquián de Escobedo (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Ciudad Valles Ebano Tamuín Ciudad del Maíz Tamasopo El Naranjo Cárdenas Rayón San Vicente Tancuayalab Tanquián de Escobedo Santa Catarina Alaquines"
+},
+"24-05": {
+"mun_principal": "San Luis Potosí",
+"n_municipios": 1,
+"municipios": "San Luis Potosí (100 %)",
+"busqueda": "San Luis Potosí"
+},
+"24-06": {
+"mun_principal": "San Luis Potosí",
+"n_municipios": 1,
+"municipios": "San Luis Potosí (100 %)",
+"busqueda": "San Luis Potosí"
+},
+"24-07": {
+"mun_principal": "Tamazunchale",
+"n_municipios": 13,
+"municipios": "Tamazunchale (25 %); Xilitla (13 %); Aquismón (12 %); Axtla De Terrazas (9 %); Matlapa (8 %); Tancanhuitz (5 %); San Martín Chalchicuautla (5 %); Tanlajás (5 %); Coxcatlán (4 %); Tampacán (4 %); Huehuetlán (4 %); Tampamolón Corona (4 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Tamazunchale Xilitla Aquismón Axtla De Terrazas Matlapa Tancanhuitz San Martín Chalchicuautla Tanlajás Coxcatlán Tampacán Huehuetlán Tampamolón Corona San Antonio"
+},
+"25-01": {
+"mun_principal": "Mazatlán",
+"n_municipios": 4,
+"municipios": "Mazatlán (68 %); Escuinapa (13 %); Rosario (12 %); Concordia (6 %)",
+"busqueda": "Mazatlán Escuinapa Rosario Concordia"
+},
+"25-02": {
+"mun_principal": "Ahome",
+"n_municipios": 2,
+"municipios": "Ahome (99 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Ahome Juan José Ríos"
+},
+"25-03": {
+"mun_principal": "Navolato",
+"n_municipios": 7,
+"municipios": "Navolato (33 %); Salvador Alvarado (20 %); Sinaloa (19 %); Angostura (11 %); Mocorito (11 %); Badiraguato (7 %); y 1 municipio más con menos de 3 %",
+"busqueda": "Navolato Salvador Alvarado Sinaloa Angostura Mocorito Badiraguato Juan José Ríos"
+},
+"25-04": {
+"mun_principal": "Guasave",
+"n_municipios": 4,
+"municipios": "Guasave (62 %); El Fuerte (23 %); Juan José Ríos (8 %); Choix (7 %)",
+"busqueda": "Guasave El Fuerte Juan José Ríos Choix"
+},
+"25-05": {
+"mun_principal": "Culiacán",
+"n_municipios": 1,
+"municipios": "Culiacán (100 %)",
+"busqueda": "Culiacán"
+},
+"25-06": {
+"mun_principal": "Mazatlán",
+"n_municipios": 6,
+"municipios": "Mazatlán (52 %); Culiacán (21 %); Elota (10 %); Eldorado (9 %); San Ignacio (5 %); Cosalá (4 %)",
+"busqueda": "Mazatlán Culiacán Elota Eldorado San Ignacio Cosalá"
+},
+"25-07": {
+"mun_principal": "Culiacán",
+"n_municipios": 1,
+"municipios": "Culiacán (100 %)",
+"busqueda": "Culiacán"
+},
+"26-01": {
+"mun_principal": "San Luis Río Colorado",
+"n_municipios": 11,
+"municipios": "San Luis Río Colorado (53 %); Caborca (21 %); Puerto Peñasco (17 %); General Plutarco Elías Calles (3 %); y 7 municipios más con menos de 3 %",
+"busqueda": "San Luis Río Colorado Caborca Puerto Peñasco General Plutarco Elías Calles Altar Pitiquito Sáric Trincheras Tubutama Atil Oquitoa"
+},
+"26-02": {
+"mun_principal": "Nogales",
+"n_municipios": 11,
+"municipios": "Nogales (58 %); Agua Prieta (19 %); Cananea (8 %); Magdalena (7 %); y 7 municipios más con menos de 3 %",
+"busqueda": "Nogales Agua Prieta Cananea Magdalena Imuris Fronteras Naco Arizpe Bacoachi Santa Cruz Cucurpe"
+},
+"26-03": {
+"mun_principal": "Hermosillo",
+"n_municipios": 1,
+"municipios": "Hermosillo (100 %)",
+"busqueda": "Hermosillo"
+},
+"26-04": {
+"mun_principal": "Guaymas",
+"n_municipios": 41,
+"municipios": "Guaymas (41 %); Empalme (14 %); Bácum (6 %); Santa Ana (4 %); San Ignacio Río Muerto (4 %); Nacozari de García (3 %); Ures (3 %); y 34 municipios más con menos de 3 %",
+"busqueda": "Guaymas Empalme Bácum Santa Ana San Ignacio Río Muerto Nacozari de García Ures San Miguel de Horcasitas Cumpas Moctezuma Sahuaripa Yécora Carbó Benjamín Hill Baviácora La Colorada Aconchi Opodepe Villa Pesqueira San Pedro De La Cueva Rayon Soyopa Villa Hidalgo Banámichi Suaqui Grande Mazatán Nácori Chico Tepache Huépac Divisaderos Bavispe Bacadéhuachi Huásabas Bacerac Huachinera Granados Arivechi Bacanora Onavas San Javier San Felipe de Jesús"
+},
+"26-05": {
+"mun_principal": "Hermosillo",
+"n_municipios": 1,
+"municipios": "Hermosillo (100 %)",
+"busqueda": "Hermosillo"
+},
+"26-06": {
+"mun_principal": "Cajeme",
+"n_municipios": 1,
+"municipios": "Cajeme (100 %)",
+"busqueda": "Cajeme"
+},
+"26-07": {
+"mun_principal": "Navojoa",
+"n_municipios": 7,
+"municipios": "Navojoa (46 %); Huatabampo (22 %); Etchojoa (17 %); Alamos (7 %); Benito Juárez (6 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Navojoa Huatabampo Etchojoa Alamos Benito Juárez Rosario Quiriego"
+},
+"27-01": {
+"mun_principal": "Macuspana",
+"n_municipios": 5,
+"municipios": "Macuspana (47 %); Tenosique (18 %); Balancán (17 %); Emiliano Zapata (9 %); Jonuta (9 %)",
+"busqueda": "Macuspana Tenosique Balancán Emiliano Zapata Jonuta"
+},
+"27-02": {
+"mun_principal": "Cárdenas",
+"n_municipios": 2,
+"municipios": "Cárdenas (57 %); Huimanguillo (43 %)",
+"busqueda": "Cárdenas Huimanguillo"
+},
+"27-03": {
+"mun_principal": "Comalcalco",
+"n_municipios": 2,
+"municipios": "Comalcalco (62 %); Cunduacán (38 %)",
+"busqueda": "Comalcalco Cunduacán"
+},
+"27-04": {
+"mun_principal": "Centro",
+"n_municipios": 1,
+"municipios": "Centro (100 %)",
+"busqueda": "Centro"
+},
+"27-05": {
+"mun_principal": "Nacajuca",
+"n_municipios": 4,
+"municipios": "Nacajuca (32 %); Centla (24 %); Paraíso (23 %); Jalpa de Méndez (21 %)",
+"busqueda": "Nacajuca Centla Paraíso Jalpa de Méndez"
+},
+"27-06": {
+"mun_principal": "Centro",
+"n_municipios": 4,
+"municipios": "Centro (65 %); Teapa (14 %); Tacotalpa (12 %); Jalapa (9 %)",
+"busqueda": "Centro Teapa Tacotalpa Jalapa"
+},
+"28-01": {
+"mun_principal": "Nuevo Laredo",
+"n_municipios": 1,
+"municipios": "Nuevo Laredo (100 %)",
+"busqueda": "Nuevo Laredo"
+},
+"28-02": {
+"mun_principal": "Reynosa",
+"n_municipios": 1,
+"municipios": "Reynosa (100 %)",
+"busqueda": "Reynosa"
+},
+"28-03": {
+"mun_principal": "Río Bravo",
+"n_municipios": 15,
+"municipios": "Río Bravo (31 %); Matamoros (23 %); Valle Hermoso (14 %); San Fernando (11 %); Soto la Marina (6 %); Padilla (3 %); y 9 municipios más con menos de 3 %",
+"busqueda": "Río Bravo Matamoros Valle Hermoso San Fernando Soto la Marina Padilla Abasolo San Carlos Jiménez Burgos Villagrán Méndez Cruillas Mainero San Nicolás"
+},
+"28-04": {
+"mun_principal": "Matamoros",
+"n_municipios": 1,
+"municipios": "Matamoros (100 %)",
+"busqueda": "Matamoros"
+},
+"28-05": {
+"mun_principal": "Victoria",
+"n_municipios": 10,
+"municipios": "Victoria (74 %); Tula (7 %); Hidalgo (4 %); Güémez (4 %); Llera (4 %); Jaumave (4 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Victoria Tula Hidalgo Güémez Llera Jaumave Bustamante Casas Miquihuana Palmillas"
+},
+"28-06": {
+"mun_principal": "Altamira",
+"n_municipios": 9,
+"municipios": "Altamira (50 %); El Mante (23 %); González (9 %); Aldama (6 %); Xicoténcatl (5 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Altamira El Mante González Aldama Xicoténcatl Ocampo Antiguo Morelos Gómez Farías Nuevo Morelos"
+},
+"28-07": {
+"mun_principal": "Reynosa",
+"n_municipios": 6,
+"municipios": "Reynosa (82 %); Miguel Alemán (7 %); Gustavo Díaz Ordaz (5 %); Camargo (4 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Reynosa Miguel Alemán Gustavo Díaz Ordaz Camargo Mier Guerrero"
+},
+"28-08": {
+"mun_principal": "Tampico",
+"n_municipios": 2,
+"municipios": "Tampico (59 %); Ciudad Madero (41 %)",
+"busqueda": "Tampico Ciudad Madero"
+},
+"29-01": {
+"mun_principal": "Huamantla",
+"n_municipios": 19,
+"municipios": "Huamantla (22 %); Apizaco (20 %); Tlaxco (10 %); Tetla de la Solidaridad (7 %); Xaloztoc (6 %); Santa Cruz Tlaxcala (5 %); Atltzayanca (4 %); Tzompantepec (4 %); El Carmen Tequexquitla (4 %); Cuapiaxtla (4 %); Terrenate (3 %); y 8 municipios más con menos de 3 %",
+"busqueda": "Huamantla Apizaco Tlaxco Tetla de la Solidaridad Xaloztoc Santa Cruz Tlaxcala Atltzayanca Tzompantepec El Carmen Tequexquitla Cuapiaxtla Terrenate Zitlaltépec de Trinidad Sánchez Santos Ixtenco Atlangatepec Cuaxomulco Tocatlán San José Teacalco Emiliano Zapata Lázaro Cárdenas"
+},
+"29-02": {
+"mun_principal": "Tlaxcala",
+"n_municipios": 22,
+"municipios": "Tlaxcala (23 %); Calpulalpan (11 %); Ixtacuixtla de Mariano Matamoros (9 %); Yauhquemehcan (8 %); Panotla (6 %); Natívitas (6 %); Totolac (5 %); Tepetitla de Lardizábal (5 %); Nanacamilpa de Mariano Arista (4 %); Apetatitlán de Antonio Carvajal (4 %); Hueyotlipan (3 %); y 11 municipios más con menos de 3 %",
+"busqueda": "Tlaxcala Calpulalpan Ixtacuixtla de Mariano Matamoros Yauhquemehcan Panotla Natívitas Totolac Tepetitla de Lardizábal Nanacamilpa de Mariano Arista Apetatitlán de Antonio Carvajal Hueyotlipan Amaxac de Guerrero Xaltocan Españita Sanctórum de Lázaro Cárdenas Santa Ana Nopalucan Benito Juárez San Damián Texóloc Muñoz de Domingo Arenas Santa Apolonia Teacalco San Lucas Tecopilco Apizaco"
+},
+"29-03": {
+"mun_principal": "San Pablo del Monte",
+"n_municipios": 20,
+"municipios": "San Pablo del Monte (18 %); Chiautempan (17 %); Zacatelco (11 %); Contla de Juan Cuamatzi (9 %); Papalotla de Xicohténcatl (7 %); Teolocholco (6 %); La Magdalena Tlaltelulco (4 %); Xicohtzinco (3 %); Tetlatlahuca (3 %); y 11 municipios más con menos de 3 %",
+"busqueda": "San Pablo del Monte Chiautempan Zacatelco Contla de Juan Cuamatzi Papalotla de Xicohténcatl Teolocholco La Magdalena Tlaltelulco Xicohtzinco Tetlatlahuca Tepeyanco Tenancingo San Francisco Tetlanohcan Mazatecochco de José María Morelos Santa Catarina Ayometla San Juan Huactzinco Santa Cruz Quilehtla Acuamanala de Miguel Hidalgo San Lorenzo Axocomanitla Santa Isabel Xiloxoxtla San Jerónimo Zacualpan"
+},
+"30-01": {
+"mun_principal": "Tantoyuca",
+"n_municipios": 15,
+"municipios": "Tantoyuca (23 %); Pánuco (22 %); Pueblo Viejo (12 %); Tempoal (8 %); Ozuluama de Mascareñas (5 %); El Higo (5 %); Platón Sánchez (4 %); Chalma (3 %); Chontla (3 %); y 6 municipios más con menos de 3 %",
+"busqueda": "Tantoyuca Pánuco Pueblo Viejo Tempoal Ozuluama de Mascareñas El Higo Platón Sánchez Chalma Chontla Tampico Alto Ixcatepec Tantima Tamalín Citlaltépetl Chiconamel"
+},
+"30-02": {
+"mun_principal": "Álamo Temapache",
+"n_municipios": 16,
+"municipios": "Álamo Temapache (27 %); Chicontepec (13 %); Ixhuatlán de Madero (12 %); Naranjos Amatlán (6 %); Cerro Azul (6 %); Huayacocotla (5 %); Castillo de Teayo (5 %); Benito Juárez (4 %); Chinampa de Gorostiza (4 %); Tepetzintla (4 %); Zontecomatlán de López y Fuentes (3 %); Ilamatlán (3 %); y 4 municipios más con menos de 3 %",
+"busqueda": "Álamo Temapache Chicontepec Ixhuatlán de Madero Naranjos Amatlán Cerro Azul Huayacocotla Castillo de Teayo Benito Juárez Chinampa de Gorostiza Tepetzintla Zontecomatlán de López y Fuentes Ilamatlán Tlachichilco Texcatepec Zacualpan Tancoco"
+},
+"30-03": {
+"mun_principal": "Cosoleacaque",
+"n_municipios": 11,
+"municipios": "Cosoleacaque (27 %); Acayucan (19 %); Isla (9 %); Playa Vicente (9 %); Juan Rodríguez Clara (8 %); San Juan Evangelista (7 %); Sayula de Alemán (7 %); Chinameca (4 %); Soconusco (3 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Cosoleacaque Acayucan Isla Playa Vicente Juan Rodríguez Clara San Juan Evangelista Sayula de Alemán Chinameca Soconusco Santiago Sochiapan Zaragoza"
+},
+"30-04": {
+"mun_principal": "Veracruz",
+"n_municipios": 2,
+"municipios": "Veracruz (60 %); Boca del Río (40 %)",
+"busqueda": "Veracruz Boca del Río"
+},
+"30-05": {
+"mun_principal": "Poza Rica de Hidalgo",
+"n_municipios": 4,
+"municipios": "Poza Rica de Hidalgo (42 %); Tuxpan (33 %); Tihuatlán (20 %); Tamiahua (5 %)",
+"busqueda": "Poza Rica de Hidalgo Tuxpan Tihuatlán Tamiahua"
+},
+"30-06": {
+"mun_principal": "Papantla",
+"n_municipios": 13,
+"municipios": "Papantla (40 %); Coatzintla (13 %); Espinal (7 %); Tecolutla (6 %); Cazones De Herrera (6 %); Gutiérrez Zamora (6 %); Coyutla (6 %); Filomeno Mata (4 %); Coxquihui (4 %); Zozocolco De Hidalgo (3 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Papantla Coatzintla Espinal Tecolutla Cazones De Herrera Gutiérrez Zamora Coyutla Filomeno Mata Coxquihui Zozocolco De Hidalgo Mecatlán Coahuitlán Chumatlán"
+},
+"30-07": {
+"mun_principal": "Martínez de la Torre",
+"n_municipios": 9,
+"municipios": "Martínez de la Torre (26 %); Misantla (15 %); Altotonga (14 %); Tlapacoyan (14 %); Atzalan (11 %); Jalacingo (9 %); San Rafael (7 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Martínez de la Torre Misantla Altotonga Tlapacoyan Atzalan Jalacingo San Rafael Nautla Tenochtitlán"
+},
+"30-08": {
+"mun_principal": "Emiliano Zapata",
+"n_municipios": 23,
+"municipios": "Emiliano Zapata (18 %); Actopan (10 %); Paso de Ovejas (8 %); La Antigua (7 %); Ursulo Galván (7 %); Alto Lucero de Gutiérrez Barios (7 %); Puente Nacional (5 %); Naolinco (5 %); Vega de Alatorre (5 %); Totutla (4 %); Tlaltetela (4 %); Juchique de Ferrer (4 %); Chiconquiaco (3 %); y 10 municipios más con menos de 3 %",
+"busqueda": "Emiliano Zapata Actopan Paso de Ovejas La Antigua Ursulo Galván Alto Lucero de Gutiérrez Barios Puente Nacional Naolinco Vega de Alatorre Totutla Tlaltetela Juchique de Ferrer Chiconquiaco Yecuatla Tepetlán Tenampa Colipa Tonayán Jalcomulco Miahuatlán Apazapan Acatlán Landero y Coss"
+},
+"30-09": {
+"mun_principal": "Coatepec",
+"n_municipios": 18,
+"municipios": "Coatepec (23 %); Perote (17 %); Xico (9 %); Banderilla (7 %); Ayahualulco (5 %); Tlalnelhuayocan (5 %); Las Vigas de Ramírez (5 %); Teocelo (4 %); Jilotepec (4 %); Cosautlán de Carvajal (4 %); y 8 municipios más con menos de 3 %",
+"busqueda": "Coatepec Perote Xico Banderilla Ayahualulco Tlalnelhuayocan Las Vigas de Ramírez Teocelo Jilotepec Cosautlán de Carvajal Villa Aldama Tlacolulan Coacoatzintla Ixhuacán de los Reyes Acajete Rafael Lucio Tatatila Las Minas"
+},
+"30-10": {
+"mun_principal": "Xalapa",
+"n_municipios": 1,
+"municipios": "Xalapa (100 %)",
+"busqueda": "Xalapa"
+},
+"30-11": {
+"mun_principal": "Coatzacoalcos",
+"n_municipios": 5,
+"municipios": "Coatzacoalcos (75 %); Agua Dulce (10 %); Nanchital de Lázaro Cárdenas del Río (7 %); Moloacán (4 %); Ixhuatlán del Sureste (4 %)",
+"busqueda": "Coatzacoalcos Agua Dulce Nanchital de Lázaro Cárdenas del Río Moloacán Ixhuatlán del Sureste"
+},
+"30-12": {
+"mun_principal": "Veracruz",
+"n_municipios": 1,
+"municipios": "Veracruz (100 %)",
+"busqueda": "Veracruz"
+},
+"30-13": {
+"mun_principal": "Medellín de Bravo",
+"n_municipios": 16,
+"municipios": "Medellín de Bravo (22 %); Huatusco (15 %); Paso del Macho (8 %); Soledad De Doblado (8 %); Manlio Fabio Altamirano (6 %); Ixhuatlán del Café (6 %); Atoyac (6 %); Cotaxtla (6 %); Comapa (5 %); Carrillo Puerto (5 %); Zentla (3 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Medellín de Bravo Huatusco Paso del Macho Soledad De Doblado Manlio Fabio Altamirano Ixhuatlán del Café Atoyac Cotaxtla Comapa Carrillo Puerto Zentla Jamapa Tepatlaxco Camarón de Tejeda Tlacotepec de Mejía Sochiapa"
+},
+"30-14": {
+"mun_principal": "Minatitlán",
+"n_municipios": 9,
+"municipios": "Minatitlán (41 %); Las Choapas (19 %); Jáltipan (10 %); Uxpanapa (7 %); Jesús Carranza (7 %); Texistepec (5 %); Hidalgotitlán (4 %); Oluta (4 %); Oteapan (3 %)",
+"busqueda": "Minatitlán Las Choapas Jáltipan Uxpanapa Jesús Carranza Texistepec Hidalgotitlán Oluta Oteapan"
+},
+"30-15": {
+"mun_principal": "Orizaba",
+"n_municipios": 12,
+"municipios": "Orizaba (36 %); Coscomatepec (14 %); Río Blanco (12 %); Mariano Escobedo (8 %); La Perla (6 %); Ixhuatlancillo (6 %); Atzacan (5 %); Chocamán (5 %); Calcahualco (3 %); y 3 municipios más con menos de 3 %",
+"busqueda": "Orizaba Coscomatepec Río Blanco Mariano Escobedo La Perla Ixhuatlancillo Atzacan Chocamán Calcahualco Alpatláhuac Tomatlán Huiloapan de Cuauhtémoc"
+},
+"30-16": {
+"mun_principal": "Córdoba",
+"n_municipios": 6,
+"municipios": "Córdoba (49 %); Fortín (15 %); Ixtaczoquitlán (15 %); Amatlán de los Reyes (10 %); Cuitláhuac (6 %); Yanga (4 %)",
+"busqueda": "Córdoba Fortín Ixtaczoquitlán Amatlán de los Reyes Cuitláhuac Yanga"
+},
+"30-17": {
+"mun_principal": "Tierra Blanca",
+"n_municipios": 18,
+"municipios": "Tierra Blanca (23 %); Alvarado (13 %); Cosamaloapan (12 %); Tres Valles (10 %); Tlalixcoyan (9 %); José Azueta (5 %); Carlos A. Carrillo (5 %); Lerdo de Tejada (5 %); Ignacio de la Llave (4 %); Tlacotalpan (3 %); y 8 municipios más con menos de 3 %",
+"busqueda": "Tierra Blanca Alvarado Cosamaloapan Tres Valles Tlalixcoyan José Azueta Carlos A. Carrillo Lerdo de Tejada Ignacio de la Llave Tlacotalpan Chacaltianguis Amatitlán Saltabarranca Ixmatlahuacan Acula Otatitlán Tlacojalpan Tuxtilla"
+},
+"30-18": {
+"mun_principal": "Tezonapa",
+"n_municipios": 25,
+"municipios": "Tezonapa (13 %); Nogales (12 %); Zongolica (11 %); Camerino Z. Mendoza (8 %); Tehuipango (6 %); Omealca (6 %); Rafael Delgado (5 %); Acultzingo (5 %); Soledad Atzompa (5 %); Maltrata (4 %); Tequila (4 %); y 14 municipios más con menos de 3 %",
+"busqueda": "Tezonapa Nogales Zongolica Camerino Z. Mendoza Tehuipango Omealca Rafael Delgado Acultzingo Soledad Atzompa Maltrata Tequila Cuichapa Mixtla de Altamirano Atlahuilco Tlaquilpa Astacinga Texhuacán Los Reyes Tlilapan Xoxocotla Naranjal Magdalena San Andrés Tenejapan Coetzala Aquila"
+},
+"30-19": {
+"mun_principal": "San Andrés Tuxtla",
+"n_municipios": 9,
+"municipios": "San Andrés Tuxtla (38 %); Santiago Tuxtla (14 %); Catemaco (11 %); Hueyapan de Ocampo (9 %); Soteapan (8 %); Angel R. Cabada (8 %); Mecayapan (4 %); Pajapan (4 %); Tatahuicapan de Juárez (4 %)",
+"busqueda": "San Andrés Tuxtla Santiago Tuxtla Catemaco Hueyapan de Ocampo Soteapan Angel R. Cabada Mecayapan Pajapan Tatahuicapan de Juárez"
+},
+"31-01": {
+"mun_principal": "Valladolid",
+"n_municipios": 27,
+"municipios": "Valladolid (22 %); Tizimín (22 %); Chemax (10 %); Peto (7 %); Temozón (5 %); Espita (4 %); Yaxcabá (4 %); Tinum (3 %); y 19 municipios más con menos de 3 %",
+"busqueda": "Valladolid Tizimín Chemax Peto Temozón Espita Yaxcabá Tinum Chichimilá Panabá Tixcacalcupul Tixmehuac Chankom Tahdziú Calotmul Chikindzonot Uayma Sucilá Dzitás Río Lagartos Tekom Kaua Chacsinkín Cantamayec San Felipe Cuncunul Quintana Roo"
+},
+"31-02": {
+"mun_principal": "Progreso",
+"n_municipios": 48,
+"municipios": "Progreso (16 %); Motul (9 %); Izamal (7 %); Tixkokob (5 %); Tecoh (4 %); Conkal (4 %); Acanceh (4 %); y 41 municipios más con menos de 3 %",
+"busqueda": "Progreso Motul Izamal Tixkokob Tecoh Conkal Acanceh Seyé Buctzotz Dzidzantún Sotuta Homún Cacalchén Timucuy Temax Dzilam González Hoctún Hocabá Baca Tixpéhual Huhí Kantunil Cuzamá Cansahcab Chicxulub Pueblo Ixil Dzemul Cenotillo Tekantó Tahmek Tunkás Telchac Pueblo Dzoncauich Mocochá Yaxkukul Sinanché Xocchel Muxupip Dzilam de Bravo Tekal de Venegas Telchac Puerto Yobaín Bokobá Tepakán Teya Suma Sudzal Sanahcat"
+},
+"31-03": {
+"mun_principal": "Mérida",
+"n_municipios": 1,
+"municipios": "Mérida (100 %)",
+"busqueda": "Mérida"
+},
+"31-04": {
+"mun_principal": "Mérida",
+"n_municipios": 1,
+"municipios": "Mérida (100 %)",
+"busqueda": "Mérida"
+},
+"31-05": {
+"mun_principal": "Umán",
+"n_municipios": 29,
+"municipios": "Umán (16 %); Tekax (11 %); Ticul (10 %); Hunucmá (9 %); Oxkutzcab (8 %); Maxcanú (6 %); Halachó (5 %); Tzucacab (4 %); Muna (3 %); y 20 municipios más con menos de 3 %",
+"busqueda": "Umán Tekax Ticul Hunucmá Oxkutzcab Maxcanú Halachó Tzucacab Muna Akil Tekit Celestún Kinchil Opichén Abalá Teabo Dzán Maní Samahil Tetiz Sacalum Chocholá Santa Elena Ucú Chapab Mayapán Chumayel Mama Kopomá"
+},
+"31-06": {
+"mun_principal": "Mérida",
+"n_municipios": 2,
+"municipios": "Mérida (69 %); Kanasín (31 %)",
+"busqueda": "Mérida Kanasín"
+},
+"32-01": {
+"mun_principal": "Fresnillo",
+"n_municipios": 8,
+"municipios": "Fresnillo (55 %); Sombrerete (16 %); Valparaíso (9 %); Miguel Auza (6 %); Sain Alto (6 %); Juan Aldama (5 %); y 2 municipios más con menos de 3 %",
+"busqueda": "Fresnillo Sombrerete Valparaíso Miguel Auza Sain Alto Juan Aldama Chalchihuites Jiménez del Teul"
+},
+"32-02": {
+"mun_principal": "Jerez",
+"n_municipios": 28,
+"municipios": "Jerez (17 %); Loreto (10 %); Ojocaliente (9 %); Villanueva (8 %); Nochistlán de Mejía (8 %); Jalpa (7 %); Tlaltenango de Sánchez Román (6 %); Tabasco (4 %); Juchipila (4 %); y 19 municipios más con menos de 3 %",
+"busqueda": "Jerez Loreto Ojocaliente Villanueva Nochistlán de Mejía Jalpa Tlaltenango de Sánchez Román Tabasco Juchipila Luis Moya Cuauhtémoc Monte Escobedo Tepechitlán Tepetongo Genaro Codina Apozol Moyahua de Estrada Teúl de González Ortega Huanusco Apulco Benito Juárez Trinidad García de la Cadena Momax Mezquital del Oro Santa María de la Paz Atolinga El Plateado de Joaquín Amaro Susticacán"
+},
+"32-03": {
+"mun_principal": "Zacatecas",
+"n_municipios": 14,
+"municipios": "Zacatecas (37 %); Río Grande (17 %); Calera (10 %); Villa de Cos (8 %); General Francisco R. Murguía (6 %); Mazapil (5 %); Pánuco (4 %); Morelos (3 %); Concepción del Oro (3 %); y 5 municipios más con menos de 3 %",
+"busqueda": "Zacatecas Río Grande Calera Villa de Cos General Francisco R. Murguía Mazapil Pánuco Morelos Concepción del Oro Vetagrande Cañitas de Felipe Pescador General Enrique Estrada Melchor Ocampo El Salvador"
+},
+"32-04": {
+"mun_principal": "Guadalupe",
+"n_municipios": 8,
+"municipios": "Guadalupe (52 %); Pinos (19 %); General Pánfilo Natera (6 %); Trancoso (5 %); Villa Hidalgo (5 %); Villa García (5 %); Noria de Ángeles (4 %); Villa González Ortega (4 %)",
+"busqueda": "Guadalupe Pinos General Pánfilo Natera Trancoso Villa Hidalgo Villa García Noria de Ángeles Villa González Ortega"
+}
+}
