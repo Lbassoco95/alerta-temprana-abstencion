@@ -5,7 +5,7 @@
 Hackathon 2026 «Hackea la participación: datos que construyen democracia» · Instituto Nacional Electoral · **Eje 2: Predicción y escenarios de riesgo de abstención**
 Equipo: Leopoldo Bassoco Nova · Alan Anastasio (participación a título personal) · Octubre de 2026
 
-> **Tablero interactivo:** `docs/index.html` (publicado con GitHub Pages en `https://<usuario>.github.io/alerta-temprana-abstencion/`). También se puede abrir el archivo directamente en cualquier navegador: no requiere servidor ni conexión.
+> **Tablero interactivo:** https://lbassoco95.github.io/alerta-temprana-abstencion/ (GitHub Pages; fuente `docs/index.html`). También se puede abrir el archivo directamente en cualquier navegador: no requiere servidor ni conexión.
 
 ---
 
@@ -89,7 +89,7 @@ alerta-temprana-abstencion/
 ## 4. Cómo reproducir
 
 ```bash
-git clone https://github.com/<usuario>/alerta-temprana-abstencion.git
+git clone https://github.com/Lbassoco95/alerta-temprana-abstencion.git
 cd alerta-temprana-abstencion
 pip install -r requirements.txt
 ./run.sh

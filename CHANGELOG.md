@@ -7,7 +7,7 @@ Ajuste de redacción del escenario 2027 con intervención (determinación de cum
 Tablero v2.1: leyenda contextual dentro del mapa (título, frase de lectura y escala cambian con «pintar por»). Diseño de plataforma: `docs/ARQUITECTURA-PLATAFORMA.md`, `db/migrations/0001_esquema_base.sql` (7 esquemas, 37 objetos, probado en Postgres 16), `db/seed/` y `scripts/exporta_seed.py` (las vistas reproducen 45/60/89/106 y 49.19/50.31 desde la base).
 
 ## 1.0.0 — 2026-10-31
-Versión entregada al INE: índice, tablero, CSV, GeoJSON, reporte, láminas y documentación metodológica.
+Versión entregada al INE: índice, tablero, CSV, GeoJSON, reporte, láminas y documentación metodológica. Publicada en https://github.com/Lbassoco95/alerta-temprana-abstencion (etiqueta v1.0.0) y tablero en https://lbassoco95.github.io/alerta-temprana-abstencion/
 
 ## 0.2.0 — 2026-10-30
 Tablero v2: Leaflet embebido, ficha explicativa por distrito (por qué es ese color, qué tan cerca está de cambiar, cálculo 2027 paso a paso), secciones «Cómo se decide el color», «De dónde sale el 50.3 %», glosario de señales, fundamentos matemáticos y sensibilidad. Documento `docs/METODOLOGIA.md`.
