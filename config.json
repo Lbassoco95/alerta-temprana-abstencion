@@ -12,6 +12,6 @@
   "bandas_cuantiles": {"rojo": 0.15, "naranja": 0.20, "amarillo": 0.30, "verde": 0.35},
   "umbral_mecanismo": 0.40,
   "sensibilidad": {"delta_pesos": 0.10, "variantes": ["pesos_iguales", "minmax", "zscore", "geometrica"]},
-  "escenarios": {"elasticidad_puntos": {"rojo": 3.0, "naranja": 2.0, "amarillo": 1.0, "verde": 0.0},
-                 "nota": "Supuesto explícito: efecto de promoción focalizada en puntos porcentuales de participación, en el rango bajo de la literatura experimental de movilización (Gerber y Green)."}
+  "escenarios": {"puntos_campana_por_banda": {"rojo": 3.0, "naranja": 2.0, "amarillo": 1.0, "verde": 0.0},
+                 "nota": "Supuesto declarado del equipo, no un resultado medido: puntos porcentuales de participación que se supone rinde una campaña de promoción del voto concentrada en los distritos de cada banda. La banda sólo decide dónde se concentra la campaña. Ajustable."}
 }

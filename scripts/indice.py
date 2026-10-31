@@ -176,7 +176,7 @@ sens = pd.DataFrame(filas); sens.to_csv(os.path.join(OUT, "sensibilidad.csv"), i
 # sin intervención: a la última intermedia (2021) se le aplica el cambio del distrito entre las dos últimas
 # presidenciales (2018→2024), es decir, su impulso reciente de ciclo a ciclo
 sin = (col("p_total", 2021) + (col("p_total", 2024) - col("p_total", 2018))).clip(5, 95)
-E = CFG["escenarios"]["elasticidad_puntos"]
+E = CFG["escenarios"]["puntos_campana_por_banda"]
 con = (sin + res.banda.map(E).fillna(0)).clip(5, 95)
 esc = pd.DataFrame({"id_def": res.index, "banda": res.banda, "LN_2024": ind.LN_2024,
                     "p_2021": col("p_total", 2021), "p_2024": col("p_total", 2024),

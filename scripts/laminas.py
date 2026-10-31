@@ -126,10 +126,10 @@ for i in range(len(sens) + 1):
 bullets(s, 8.2, 1.8, 4.7, 4.8, [("Criterio previo:", "menos de 15 % de distritos cambian de banda ante ±0.10 en los pesos de componente. Se cumple en los seis casos."), ("Variantes estructurales", "(pesos iguales, geométrica) mueven el centro de la distribución, pero los rojos se conservan en más de 84 % de los casos."), ("Lectura:", "la lista de atención prioritaria es robusta; la frontera amarillo/verde es la más sensible.")], 13)
 
 # 9 Escenarios
-s = prs.slides.add_slide(BL); header(s, 9, "Escenarios 2027: qué pasa si no se interviene y qué se recupera si se focaliza")
+s = prs.slides.add_slide(BL); header(s, 9, "Escenarios 2027: qué pasa si no se interviene y qué se recuperaría con una campaña focalizada")
 s.shapes.add_picture(os.path.join(FIG, "fig4_escenarios.png"), Inches(0.5), Inches(1.8), width=Inches(6.6))
-stat(s, 7.4, 1.8, 2.7, f"{nac['p_2027_sin_intervencion']} %", "2027 sin intervención (impulso reciente de cada distrito)"); stat(s, 10.2, 1.8, 2.7, f"{nac['p_2027_con_intervencion']} %", "2027 con promoción focalizada (+3/+2/+1 pp)", ACC)
-bullets(s, 7.4, 3.4, 5.5, 3.4, [("Sin intervención:", "a la última intermedia (2021) se aplica el cambio 2018 → 2024 de cada distrito. Los rojos pasarían de 58.6 % a 51.1 %."), ("Con intervención:", "efecto declarado y ajustable en config.json, en el rango bajo de la literatura experimental de movilización (Gerber y Green)."), ("Diferencia:", "1.1 puntos nacionales, algo más de un millón de personas; 3 puntos en los rojos (~430 mil). No es pronóstico: es el orden de magnitud de lo recuperable y el argumento para no repartir la promoción de forma proporcional.")], 12)
+stat(s, 7.4, 1.8, 2.7, f"{nac['p_2027_sin_intervencion']} %", "2027 sin intervención (impulso reciente de cada distrito)"); stat(s, 10.2, 1.8, 2.7, f"{nac['p_2027_con_intervencion']} %", "2027 con campaña focalizada (supuesto +3/+2/+1 pp)", ACC)
+bullets(s, 7.4, 3.4, 5.5, 3.4, [("Sin intervención:", "a la última intermedia (2021) se aplica el cambio 2018 → 2024 de cada distrito. Los rojos pasarían de 58.6 % a 51.1 %."), ("Con intervención:", "el INE concentra una campaña en rojos, naranjas y amarillos. Se supone que rinde +3, +2 y +1 puntos. Es un supuesto ajustable, no un resultado medido."), ("Diferencia:", "1.1 puntos nacionales, algo más de un millón de personas; 3 puntos en los rojos (unas 430 mil). No es pronóstico: es el orden de magnitud de lo recuperable si la campaña rinde lo supuesto. La prioridad por riesgo se apoya en el índice y su backtest, no en este escenario.")], 12)
 
 # 10 Recomendaciones y entregables
 s = prs.slides.add_slide(BL); header(s, 10, "Recomendaciones por banda y mecanismo, y qué entregamos")

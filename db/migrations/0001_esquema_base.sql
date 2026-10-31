@@ -185,7 +185,7 @@ create table modelo.configuracion (
   pesos_componentes  jsonb not null,              -- {"A":0.40,"B":0.40,"C":0.20}
   bandas_cuantiles   jsonb not null,              -- {"rojo":0.15,...}
   umbral_mecanismo   numeric(4,2) not null,
-  escenarios         jsonb not null,              -- {"elasticidad_puntos":{...}}
+  escenarios         jsonb not null,              -- {"puntos_campana_por_banda":{...}}
   creada_por         uuid,
   creada_en          timestamptz not null default now()
 );

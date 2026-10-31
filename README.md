@@ -24,7 +24,7 @@ Equipo: Leopoldo Bassoco Nova · Alan Anastasio (participación a título person
 | ¿Anticipa? | Calculado sólo con datos hasta 2018, ordena correctamente la caída de la intermedia 2021: Spearman 0.37, monótono por banda, 76 % de rojos vs 28 % de verdes cayeron más que la mediana |
 | Límite declarado | No anticipa la elección judicial 2025 (Spearman 0.04): esa elección midió movilización organizada, no desgaste |
 | Robustez | ±0.10 en los pesos cambia la banda de 9–13 % de los distritos; los rojos se conservan en > 84 % bajo todas las variantes |
-| Escenarios 2027 | 49.2 % de participación si cada distrito sigue su impulso; 50.3 % con promoción focalizada (+3/+2/+1 puntos en rojo/naranja/amarillo): ≈ 1.1 millones de personas |
+| Escenarios 2027 | 49.2 % de participación si cada distrito sigue su impulso; 50.3 % si el INE concentra una campaña en rojos, naranjas y amarillos y esta rinde 3, 2 y 1 puntos (supuesto declarado, no medido): ≈ 1.1 millones de personas. La prioridad por riesgo se apoya en el índice y su backtest, no en este escenario |
 
 **Qué recibe cada junta distrital:** su color, su causa, su lugar de prioridad, su historia 2009–2024, su escenario 2027 y una recomendación alineada con los ejes de la ENCCÍVICA.
 
@@ -113,7 +113,7 @@ Nueve indicadores a nivel distrito, todos orientados a «más = más riesgo», c
 | **B. Desafección** | B1 rebote perdido (p2012 − p2009) − (p2024 − p2021) · B2 caída de la participación 30+ entre 2018 y 2024 · B3 volatilidad residual | 0.40 |
 | **C. Vulnerabilidad** | C1 peso rural y mixto · C2 brecha de género · C3 peso de 18–29 en la lista nominal | 0.20 |
 
-`R = 0.40·A + 0.40·B + 0.20·C` · bandas por cuantiles 15/20/30/35 % · mecanismo dominante = componente que aporta ≥ 40 % de R · prioridad = R × lista nominal relativa · escenario 2027 sin intervención = p2021 + (p2024 − p2018); con intervención = + 3/2/1/0 puntos por banda.
+`R = 0.40·A + 0.40·B + 0.20·C` · bandas por cuantiles 15/20/30/35 % · mecanismo dominante = componente que aporta ≥ 40 % de R · prioridad = R × lista nominal relativa · escenario 2027 sin intervención = p2021 + (p2024 − p2018); con intervención = + 3/2/1/0 puntos por banda. Los valores por banda no miden la causa del riesgo: son el rendimiento supuesto de una campaña en los distritos de esa banda. La escalera supone que la campaña rinde más donde hay más espacio de recuperación; el equipo no tiene una estimación propia de ese supuesto.
 
 Cada fórmula, la construcción de la validación fuera de muestra y el procedimiento del análisis de sensibilidad están en **`docs/METODOLOGIA.md`**. El marco teórico (Easton, Norris, Plutzer, Franklin, Reif y Schmitt, Verba–Schlozman–Brady, Rosenstone y Hansen, Grabo) y las referencias completas están en el reporte.
 

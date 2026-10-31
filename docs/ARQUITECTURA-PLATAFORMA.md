@@ -80,7 +80,7 @@ Con esto, "¿qué pasaría con pesos iguales?" es insertar una configuración y 
 | `decision.ejecucion` | plan × evento: qué se hizo, cuándo, alcance (personas, planteles, secciones), evidencia |
 | `decision.evaluacion` | plan × elección posterior: cambio observado en el indicador meta vs grupo de comparación (distritos de la misma banda sin esa acción) |
 
-Esta es la parte que convierte un hackathon en política pública: cierra el ciclo identificar → decidir → ejecutar → evaluar, y permite estimar el efecto real de la promoción (hoy es un supuesto de +3/+2/+1 puntos; con dos elecciones de registros, deja de serlo).
+Esta es la parte que convierte un hackathon en política pública: cierra el ciclo identificar → decidir → ejecutar → evaluar, y permite estimar el efecto real de la promoción (hoy el rendimiento de la campaña por banda es un supuesto declarado de +3/+2/+1 puntos; con dos elecciones de registros, deja de serlo).
 
 ### 3.5 `senal` — series continuas y tiempo real
 
