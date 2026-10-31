@@ -166,7 +166,8 @@ const st={{edo:'',mec:'',bands:new Set(['rojo','naranja','amarillo','verde']),se
 const fmt=(x,d=1)=>x==null?'–':Number(x).toFixed(d); const fmtN=x=>Number(x).toLocaleString('es-MX'); const dn=r=>`${{r.entidad}} · distrito ${{+r.id_def.slice(3)}}`;
 const fE=document.getElementById('fEdo'); [...new Set(DATA.map(r=>r.entidad))].sort().forEach(e=>{{const o=document.createElement('option');o.value=o.textContent=e;fE.appendChild(o)}});
 // ---- mapa ----
-const map=L.map('map',{{zoomSnap:.25,attributionControl:true}}).fitBounds([[14.4,-118.6],[32.9,-86.5]],{{padding:[6,6]}});
+const MXB=[[14.4,-118.6],[32.9,-86.5]];const map=L.map('map',{{zoomSnap:.25,attributionControl:true}}).fitBounds(MXB,{{padding:[6,6]}});
+const recentra=()=>{{map.invalidateSize();map.fitBounds(MXB,{{padding:[6,6]}})}};window.addEventListener('load',()=>setTimeout(recentra,150));window.addEventListener('resize',()=>{{if(!st.sel&&!st.edo)recentra()}});
 map.attributionControl.setPrefix('');
 const tiles=L.tileLayer('https://tile.openstreetmap.org/{{z}}/{{x}}/{{y}}.png',{{maxZoom:12,opacity:.55,attribution:'© OpenStreetMap'}});
 let online=false; tiles.on('tileload',()=>{{if(!online){{online=true;document.getElementById('mapnote').textContent='Los límites gruesos son estados; los delgados, distritos. Acerca el mapa para ver ciudades y carreteras.'}}}}); tiles.addTo(map);
@@ -226,7 +227,7 @@ function select(r,zoom){{st.sel=r;gj.setStyle(style);if(zoom&&layers[r.id_def])m
 document.querySelectorAll('.chip').forEach(c=>c.addEventListener('click',()=>{{const b=c.dataset.b;st.bands.has(b)?st.bands.delete(b):st.bands.add(b);c.classList.toggle('off',!st.bands.has(b));paint()}}));
 fE.addEventListener('change',e=>{{st.edo=e.target.value;paint()}});document.getElementById('fMec').addEventListener('change',e=>{{st.mec=e.target.value;paint()}});document.getElementById('fVar').addEventListener('change',e=>{{st.var=e.target.value;paint()}});
 document.getElementById('buscar').addEventListener('input',e=>{{st.q=e.target.value;gj.setStyle(style);tabla()}});
-document.getElementById('reset').addEventListener('click',()=>{{st.edo='';st.mec='';st.var='banda';st.q='';st.bands=new Set(['rojo','naranja','amarillo','verde']);fE.value='';document.getElementById('fMec').value='';document.getElementById('fVar').value='banda';document.getElementById('buscar').value='';document.querySelectorAll('.chip').forEach(c=>c.classList.remove('off'));st.sel=null;gj.setStyle(style);legend();tabla();map.fitBounds([[14.4,-118.6],[32.9,-86.5]],{{padding:[6,6]}})}});
+document.getElementById('reset').addEventListener('click',()=>{{st.edo='';st.mec='';st.var='banda';st.q='';st.bands=new Set(['rojo','naranja','amarillo','verde']);fE.value='';document.getElementById('fMec').value='';document.getElementById('fVar').value='banda';document.getElementById('buscar').value='';document.querySelectorAll('.chip').forEach(c=>c.classList.remove('off'));st.sel=null;gj.setStyle(style);legend();tabla();recentra()}});
 document.getElementById('ej').addEventListener('click',e=>{{e.preventDefault();select(byId['30-18'],true)}});
 legend();tabla();
 </script></body></html>"""
