@@ -133,6 +133,8 @@ Cada fórmula, la construcción de la validación fuera de muestra y el procedim
 
 La fase 0 es un pipeline reproducible y un tablero estático. `docs/ARQUITECTURA-PLATAFORMA.md` describe cómo convertirlo en un sistema que el INE pueda seguir alimentando: base de datos como fuente de verdad (`db/migrations/0001_esquema_base.sql`, con catálogos y cartografía versionada, hechos del CCPC, corridas del índice, decisiones e intervenciones, señales continuas, panel analítico abierto a nuevas variables y registro de modelos), API de sólo lectura para el público, una web guiada y, hacia 2027, lectura de agregados por sección durante la jornada electoral. Siempre sobre agregados territoriales, nunca sobre personas.
 
+La fase 1 ya está iniciada: el esquema y las semillas de `db/` están aplicados en un proyecto Supabase propio del equipo (31-oct-2026) y `vista.tablero_nacional` devuelve desde la base las mismas cifras que este README (ver `db/README.md`).
+
 ## 8. Privacidad y uso responsable
 
 No se utiliza, requiere ni produce ningún dato personal. La unidad mínima de la fuente es el agregado sección × sexo × edad y los resultados se expresan a nivel distrito. El instrumento orienta la promoción del voto y la educación cívica; no infiere preferencias, no decide ubicación de casillas y no califica poblaciones. La etiqueta «rojo» describe una trayectoria, no a las personas de un territorio.

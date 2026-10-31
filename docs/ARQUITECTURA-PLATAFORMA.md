@@ -145,11 +145,15 @@ El tablero estático ya explica; la plataforma además **conduce**. Patrón prop
 | Fase | Alcance | Resultado |
 |---|---|---|
 | **0 (entregado)** | Pipeline reproducible, tablero estático, reporte | v1.0.0 |
-| **1 — Base** (2–3 semanas) | Supabase con esquemas `cat`, `hecho`, `modelo`; carga de CCPC 2009–2025; corrida v1 reproducida desde la base; vistas para el tablero | Mismas cifras que v1.0.0 saliendo de la base |
+| **1 — Base** (iniciada 31-oct-2026) | Supabase con los siete esquemas; carga de catálogos, cartografía 2023, crosswalk, CCPC agregado a distrito 2009–2025, configuración v1.0.0 y corrida de producción; vistas para el tablero. Pendiente: hechos a nivel sección, funciones SQL del índice | `vista.tablero_nacional` devuelve las mismas cifras que v1.0.0 (45/60/89/106; 49.19/50.31) |
 | **2 — Web guiada** (3–4 semanas) | Frontend React con entrada por preguntas, recorrido guiado, ficha de tres niveles, comparación de distritos y de corridas | Tablero público en producción |
 | **3 — Decisión** (3 semanas) | Esquema `decision`, roles, pantalla de Junta Distrital, catálogo de acciones ENCCÍVICA, bitácora | Las juntas registran planes y ejecución |
 | **4 — Señales** (4 semanas) | Esquema `senal`, ingesta de series abiertas (credencialización, actividades), reglas de alerta | Alertas entre elecciones |
 | **5 — Jornada** (previo a 2027) | Ingesta de agregados por sección durante la jornada, comparación con esperado por hora, mapa en vivo | Alerta operativa el día de la elección |
+
+### Instancia desplegada
+
+La fase 1 corre en un proyecto Supabase propio del equipo (nombre `alerta-temprana-abstencion`, región East US, PostGIS en el esquema `extensions`), creado el 31 de octubre de 2026 y separado de cualquier otro proyecto de los autores. Se aplicó `db/migrations/0001_esquema_base.sql` sin modificaciones, con RLS habilitado en todas las tablas, y se cargaron las semillas de `db/seed/` en el orden del `db/README.md`. El acceso al panel es por invitación; las credenciales no se versionan. Para reproducirla en otro proyecto: `psql "$SUPABASE_DB_URL" -f db/migrations/0001_esquema_base.sql` y, por cada CSV de `db/seed/`, `\copy esquema.tabla(columnas) from 'archivo.csv' csv header` (la geometría de `cat.distrito` entra como WKT: cargar a una columna temporal y convertir con `ST_Multi(ST_GeomFromText(wkt, 4326))`).
 
 ## 8. Lo que no se hace
 

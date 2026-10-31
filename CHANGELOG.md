@@ -1,5 +1,8 @@
 # Bitácora de versiones
 
+## 0.3.4 — 2026-10-31
+Fase 1 iniciada: proyecto Supabase propio del equipo con `0001_esquema_base.sql` aplicado (RLS en todas las tablas) y semillas cargadas (catálogos, cartografía 2023 con geometría, crosswalk 73 945 filas, CCPC agregado a distrito 88 440 filas, configuración v1.0.0, corrida de producción, resultados, validación y sensibilidad). `vista.tablero_nacional` reproduce 45/60/89/106 y 49.19/50.31 desde la base. Documentado en `db/README.md` y `docs/ARQUITECTURA-PLATAFORMA.md` §7.
+
 ## 0.3.3 — 2026-10-31
 Nombre de municipios en el tablero: cada distrito muestra su municipio con mayor lista nominal en el título, la composición municipal (porcentaje de LN, derivada del CCPC 2024 a nivel sección) en tooltip y ficha, columna «Municipio principal» en la tabla y búsqueda por municipio. CSV y GeoJSON incorporan `municipio_principal`, `n_municipios` y `municipios`. Mapa recentrado tras la carga.
 

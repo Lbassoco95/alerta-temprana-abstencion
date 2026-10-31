@@ -15,6 +15,10 @@ Reglas, las mismas que en los productos de Yoltik:
 
 Orden de carga: `cat.*` → `hecho.carga` → `hecho.participacion_*` → `modelo.configuracion` → `modelo.indicador` → `modelo.corrida` → `modelo.resultado_*` → `modelo.validacion` → `modelo.sensibilidad`.
 
+## Instancia
+
+La migración `0001` y las semillas están aplicadas en el proyecto Supabase del equipo `alerta-temprana-abstencion` (31-oct-2026, RLS habilitado en todas las tablas; trigger de auditoría de `cat.equivalencia_seccion` desactivado sólo durante la carga inicial). Comprobación de cierre: `select * from vista.tablero_nacional;` debe devolver 45 | 60 | 89 | 106 | 49.19 | 50.31.
+
 ## Pendiente para la 0002
 
 Esquema `seguridad` (perfil de usuario, distritos asignados), políticas RLS completas, particiones de `hecho.participacion_seccion` y `senal.observacion`, funciones SQL `modelo.fn_percentil` / `fn_bandas` / `fn_escenario`, y `vista.ficha_distrito` con la serie histórica.
